@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ct-brown.github.io/sitemap.xml
+Sitemap: https://ct-brown.github.io/ct-brown/sitemap.xml
