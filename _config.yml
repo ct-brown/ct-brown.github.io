@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "C. Taylor Brown"
 title_separator          : "-"
-name                     : &name "C. Taylor Browne"
+name                     : &name "C. Taylor Brown"
 description              : &description "personal description"
 url                      : https://ct.brown.github.io  # https://academicpages.github.io, the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -31,25 +31,25 @@ author:
   email            : "ct.brown@berkeley.edu" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  arxiv            : # URL
+  googlescholar    : "https://scholar.google.com/citations?user=__4PdJsAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-5345-7608"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
+  bitbucket        : # Username
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "ct-brown"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : "ct-brown.bsky.social"
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
