@@ -12,16 +12,16 @@ title                    : "C. Taylor Browne"
 title_separator          : "-"
 name                     : &name "C. Taylor Browne"
 description              : &description "personal description"
-url                      : https://academicpages.github.io  # https://academicpages.github.io, the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ct.brown.github.io  # https://academicpages.github.io, the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "ct-brown/ct-brown.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : ""
   name             : "C. Taylor Brown"
   pronouns         : "he/him" # example: "she/her"  
   bio              : "3rd-Year PhD Student with the School of Social Welfare and Program in Critical Theory"
