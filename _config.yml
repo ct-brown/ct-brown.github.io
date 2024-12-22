@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "C. Taylor Brown"
-  pronouns         : "he/him" # example: "she/her"  
-  bio              : "3rd-Year PhD Student with the School of Social Welfare and Program in Critical Theory"
+  name             : ""
+  pronouns         : "" # example: "she/her"  
+  bio              : ""
   location         : "Berkeley, CA"
   employer         : "University of California, Berkeley"
   uri              : # URL
