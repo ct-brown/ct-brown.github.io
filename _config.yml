@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.png"
+  avatar           : "profile.png"
   name             : "C. Taylor Brown"
   pronouns         : "he/him" # example: "she/her"  
   bio              : "3rd-Year PhD Student with the School of Social Welfare and Program in Critical Theory"
