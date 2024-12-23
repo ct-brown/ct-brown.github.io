@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Dissertation: Climate Change and the (Eco)Welfare State: The Rise of Ecodecommodification"
+excerpt: "My doctoral dissertation that evaluates global ecowelfare and the relationship between climate change and the U.S. welfare state.<br/><img src='/images/portfolio1.png'>"
 collection: portfolio
 ---
 
