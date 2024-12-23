@@ -11,7 +11,7 @@ I'm a 3rd-year PhD Student with the School of Social Welfare and Program in Crit
 
 My research theorizes, evaluates, and critiques the emerging field of "ecosocial" policy around the planet and evaluates the effects of climate change on welfare states. My work, professional and academic, is centered around creating a more just, liberated, and equitable planet for all.
 
-I work in the traditions of comparative and critical political economy of welfare--combining econometric, computational, historical analysis with rigorous theory. 
+I work in the traditions of comparative and critical political economy of welfare--combining econometric, computational, historical and analysis with rigorous theory. 
 
 I am a social worker by training, having served in a variety of micro and macro positions, including with the Office of Congresswoman Barbara Lee and the Assistant Secretary for the Administration for Children and Families.
 
