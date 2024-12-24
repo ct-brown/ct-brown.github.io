@@ -68,15 +68,17 @@ Rivkin-Fish, Z., Fichman, B., & **Brown, C. T.** (2021, Jul. 8). New opportuniti
 **Brown, C. T.** (2020). We are the cure: How to help our democracy recover from the pandemic. Gephardt Institute for Civic and Community Engagement, https://gephardtinstitute.wustl.edu/university-wide-initiatives/this-civic-moment/thiscivicmomentseries/thiscivicmoment-taylor-brown/.
 
 ### Under Review
-Grounder, B., **Brown, C. T.**, & Tan, K., P., H. (under review). Climate policy principles for an equitable, post-growth society.
+Grounder, B., **Brown, C. T.**, & Tan, K., P., H. (under review). Climate policy principles for an equitable, post-growth society. Energy Research and Social Science.
 
-Ben Brik, A. & Brown, **C. T.** (R&R). Inclusion and social policy in transitional times: A proposed conceptual framework for a new era. Social Policy & Society
+Ben Brik, A. & **Brown, C. T.** (R&R). A narrative review of conceptualization and measurement of social inclusion: Directions for conceptual clarity. Social Policy & Society.
 
-Ben Brik, A. & **Brown, C. T.** (R&R). Social inclusion amid emerging global pressures: A systematic review of global trends in social inclusion and social inclusion policy. Social Policy & Society.
+Ben Brik, A. & **Brown, C. T.** (R&R). Global trends in social inclusion and social inclusion policy: A systematic review and research agenda. Social Policy & Society.
 
 Ben Brik, A. & **Brown, C. T.** (R&R). Social protection and labor market responses to the COVID-19 pandemic in Arab Gulf countries: An AI-driven analysis through welfare regime and punctuated equilibrium lenses. Social Policy & Society.
 
-Ben Brik, A. & **Brown, C. T.** (R&R). Saudi’s social protection and labor market responses to the COVID-19 Pandemic: Rethinking policies extend social protection to migrant workers to achieve universal coverage in a post-COVID era. Social Policy & Society
+Ben Brik, A. & **Brown, C. T.** (R&R). Saudi’s social protection and labor market responses to the COVID-19 Pandemic: Rethinking policies extend social protection to migrant workers to achieve universal coverage in a post-COVID era. Social Policy & Society.
+
+Ben Brik, A., & **Brown, C. T.** (under review). Can policy arrangements in rentier states evolve? Analysing the shift from étatism to pluralism in social policy. Social Policy & Society.
 
 # Research Experience
 ## Research Assistantships
@@ -220,6 +222,9 @@ SWK 4520-01, Field Placement, Field Liaison
 **Brown, C. T.** (2020, Sep.). Advising Child Welfare Administrators. Transdisciplinary Problem Solving: Child Maltreatment Prevention. Brown School of Social Work, Washington University in St. Louis.
 
 # Presentations
+## Organized Panels
+Ben Brik, A., & **Brown, C. T.** (2025). Social inclusion in transition: A crossroads of conceptualization, measurement, and policy in global contexts. International Public Policy Association, 2025.
+
 ## Oral Presentations
 **Brown, C. T.**, Nepomnyashcy, L., Patel, A. S. (2024, Nov.). Is the U.S. ecosocial safety net inequitable?: Comparing the Individuals and Households and National Flood Insurance programs. Association Public Policy Analysis & Management 2024.
 
