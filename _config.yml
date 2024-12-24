@@ -82,6 +82,16 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  book_chapter:
+    title: 'Book Chapters'
+  working:
+    title: 'Working Papers'
+  brief:
+    title: 'Policy Briefs'
+  op_ed:
+    title: 'Op-Eds
+  review:
+    title: 'Under Review'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
