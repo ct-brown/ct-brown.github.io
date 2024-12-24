@@ -93,21 +93,6 @@ publication_category:
   op_ed:
     title: 'Op-Eds'
 
-# Talks Category - The following list of talks categories and their headings
-talks_category:
-  panel:
-    title: 'Organized Panels'
-  discussant:
-    title: 'Discussant'
-  oral:
-    title: 'Oral Presentations'
-  poster:
-    title: 'Poster Presentations'
-  workshop:
-    title: 'Workshops'
-  webinar:
-    title: 'Webinars'
-
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
