@@ -82,14 +82,14 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
-  book_chapter:
+  chapter:
     title: 'Book Chapters'
   working:
     title: 'Working Papers'
   brief:
     title: 'Policy Briefs'
   op_ed:
-    title: 'Op-Eds
+    title: 'Op-Eds'
   review:
     title: 'Under Review'
 
