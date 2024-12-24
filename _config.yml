@@ -74,7 +74,7 @@ author:
   youtube          : # Username
   zhihu            : # Username
 
-# Publication Category - The following the list of publication categories and their headings
+# Publication Category - The following list of publication categories and their headings
 publication_category:
   books:
     title: 'Books'
@@ -92,6 +92,21 @@ publication_category:
     title: 'Policy Briefs'
   op_ed:
     title: 'Op-Eds'
+
+# Talks Category - The following list of talks categories and their headings
+talks_category:
+  panel:
+    title: 'Organized Panels'
+  discussant:
+    title: 'Discussant'
+  oral:
+    title: 'Oral Presentations'
+  poster:
+    title: 'Poster Presentations'
+  workshop:
+    title: 'Workshops'
+  webinar:
+    title: 'Webinars'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
