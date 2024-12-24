@@ -15,7 +15,7 @@ I work in the traditions of comparative and critical political economy of welfar
 
 I am a social worker by training, having served in a variety of micro and macro positions, including with the Office of Congresswoman Barbara Lee, the Assistant Secretary for the Administration for Children and Families, and Mayor Ella Jones of Ferguson, Missouri. By consequence, my primary object of interest is the comparative (eco)welfare state, in terms of its functions, aesthetics, and ideologies.
 
-When not reading and writing, I like to spend time with my spouse, friends, and labrador retriever, Indigo. I love rock climbing, painting, poetry, traveling, and trying new wine and tea.
+When not reading and writing, I like to spend time with my spouse, friends, and labrador retriever, Indigo. I am from Paragould, Arkansas, and love rock climbing, painting, poetry, traveling, and trying new wine and tea.
 
 You can find my CV, current projects, and stranded thoughts on this site.
 
