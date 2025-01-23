@@ -11,7 +11,7 @@ I am a 3rd-year PhD Student with the School of Social Welfare and Program in Cri
 
 My research theorizes, evaluates, and critiques the emerging field of "ecosocial" policy around the planet and evaluates the effects of climate change on welfare states. My work, professional and academic, is centered around creating a more just, liberated, and equitable planet for all amidst our suffering.
 
-I work in the traditions of comparative and critical political economy of welfare--combining econometric, computational, and historical analysis with rigorous theory. I'm theoretically and methodologically eclectic, though drawn to critical realism, working across the critical social sciences and humanities.
+I work in the traditions of comparative and critical political economy of (eco)welfare--combining econometric, computational, and historical analysis with rigorous theory. I'm theoretically and methodologically eclectic, though drawn to critical realism, working across the critical social sciences and humanities.
 
 I am a social worker by training, having served in a variety of micro and macro positions, including with the Office of Congresswoman Barbara Lee, the Assistant Secretary for the Administration for Children and Families, and Mayor Ella Jones of Ferguson, Missouri. By consequence, my primary object of interest is the comparative (eco)welfare state, in terms of its functions, aesthetics, and ideologies.
 
