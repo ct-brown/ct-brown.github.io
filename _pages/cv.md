@@ -13,7 +13,7 @@ redirect_from:
 * Ph.D in Social Welfare with a Designated Emphasis in Critical Theory, University of California, Berkeley, 2027 (expected)
 * Certificate in Applied Data Science, University of California (expected)
 * Certificate in Teaching and Learning in Higher Education, University of California, Berkeley (expected)
-* Master of Social Workl, Washington University in St. Louis, 2020
+* Master of Social Work, Washington University in St. Louis, 2020
 * Bachelor of Social Work, Harding University, 2015
 
 #  Publications
