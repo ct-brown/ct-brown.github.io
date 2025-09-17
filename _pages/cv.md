@@ -8,6 +8,10 @@ toc_sticky: true
 last_modified_at: 2025-09-16
 redirect_from:
   - /resume
+markdown: kramdown
+kramdown:
+  input: GFM
+  parse_block_html: true
 ---
 
 <style>
