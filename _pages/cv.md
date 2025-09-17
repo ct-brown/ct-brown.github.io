@@ -1,25 +1,38 @@
 ---
-layout: archive
+layout: single
 title: "CV"
 permalink: /cv/
 author_profile: true
+toc: true
+toc_sticky: true
+last_modified_at: 2025-09-16
 redirect_from:
   - /resume
 ---
 
+<style>
+.hanging-indent p,.hanging-indent li{padding-left:1.5rem;text-indent:-1.5rem;margin-bottom:.5rem;hyphens:auto}
+@media (max-width:480px){.hanging-indent p,.hanging-indent li{padding-left:1rem;text-indent:-1rem}}
+</style>
+
+<a class="btn btn--primary" href="{{ '/files/ctbrown_cv.pdf' | relative_url }}" target="_blank" rel="noopener">Download CV (PDF)</a>
+
 {% include base_path %}
 
-# Education
+## Education
 * Ph.D in Social Welfare with a Designated Emphasis in Critical Theory, University of California, Berkeley (expected)
 * Certificate in Applied Data Science, University of California
 * Certificate in Teaching and Learning in Higher Education, University of California, Berkeley
 * Master of Social Work, Washington University in St. Louis
 * Bachelor of Social Work, Harding University
 
-#  Publications
-## Published
-### Journal Articles
-**Brown, C. T.** (2025). Brown, C. T. (2025). Ecosocial adaptation and the care professions: A systems-ecological approach to climate risk. Social Work in Public Health, 1-15. https://doi.org/10.1080/19371918.2025.2554664.
+##  Publications
+### Published
+#### Journal Articles
+
+<div class="hanging-indent">
+
+**Brown, C. T.** (2025). Ecosocial adaptation and the care professions: A systems-ecological approach to climate risk. Social Work in Public Health, 1-15. https://doi.org/10.1080/19371918.2025.2554664.
 
 **Brown, C. T.** (in press). Ecosocial policy. In Aspalter, C. (ed.), Elgar Research Encyclopedia of Social Policy. Edward Elgar.
 
@@ -47,7 +60,12 @@ Miller, S., Roll, S., **Brown, C. T.**, Brugger, L., & Grinstein-Weiss, M. (2024
 
 **Brown, C. T.**, & Harrold, J. (2021). Widowhood and mental health issues: Predictors of anxiety, depression, and PTSD among those who have been widowed. Illness, Crisis & Loss, 31(2). https://doi.org/10.1177/10541373211054189.
 
-### Book Chapters
+</div>
+
+#### Book Chapters
+
+<div class="hanging-indent">
+
 Perone, A., **Brown, C. T.**, Fletcher, K., Urrutia, L. (in press). The five C’s of climate change and caregiving: Moving from catastrophe to cohesive caregiving for older adults. In Pilemer, K & Ayalon, L. (eds.) Aging and climate change. Bristol: Policy Press.
 
 Hamilton, G., & **Brown, C. T.** (in press). What is environmental justice? In Vandergrift, K. Social Justice. Solana Beach: Cognella.
@@ -56,12 +74,17 @@ Hamilton, G., & **Brown, C. T.** (in press). What is environmental justice? In V
 
 White, R., **Brown, C. T.**, Pevits, A., & Martin, J. (2023). Contextualization of transformative civic education. In Hoggan-Kloubert, T., Mabrey III, P. E., & Hoggan, C. (eds.). Transformative Civic Education in Democratic Societies. Michigan State University Press: East Lansing, Michigan.
 
-### Policy Briefs
+#### Policy Briefs
 Chang, Y. L., & **Brown, C. T.**, Keh, M. (2025). Geographic and racial disparities in employment, earnings, sanctions, and reentries in CalWORKs amid the COVID-19 pandemic.
 
 Bandaru, S., **Brown, C. T.**, Goldstein, E., Serwin, A., & Taylor P. (2021). CLT Policy Playbook. Center for Social Development.
 
-### Op-Eds
+</div>
+
+#### Op-Eds
+
+<div class="hanging-indent">
+
 **Brown, C. T.**, Chang, Y. L. (2024, Oct.) Ecosocial policy and the social risks of climate change: Foundations of the U.S. ecosocial safety net. The Social Policy Blog. https://socialpolicyblog.com/2024/10/24/ecosocial-policy-and-the-social-risks-of-climate-change-foundations-of-the-u-s-ecosocial-safety-net/.
 
 **Brown, C. T.** (2023, Sep. 2). Facing climate disasters, young Americans deserve a strong ‘ecosocial’ safety net. The Messenger. https://themessenger.com/opinion/facing-climate-disasters-young-americans-deserve-a-strong-ecosocial-safety-net.
@@ -70,10 +93,20 @@ Rivkin-Fish, Z., Fichman, B., & **Brown, C. T.** (2021, Jul. 8). New opportuniti
 
 **Brown, C. T.** (2020). We are the cure: How to help our democracy recover from the pandemic. Gephardt Institute for Civic and Community Engagement, https://gephardtinstitute.wustl.edu/university-wide-initiatives/this-civic-moment/thiscivicmomentseries/thiscivicmoment-taylor-brown/.
 
-### Dashboards
+</div>
+
+#### Dashboards
+
+<div class="hanging-indent">
+
 Chang, Y. L., **Brown, C. T.**, & Keh, M. (2025). CalWORKs WTW Racial Equity Dashboard, Version 2. https://fssrn.shinyapps.io/CalWORKS-WTW-Racial-Equity-Dashboard/.
 
-## Under Review
+</div>
+
+### Under Review
+
+<div class="hanging-indent">
+
 **Brown, C. T.** (under review). Contradictions of the ecowelfare state: The state, the human, and nature.
 
 **Brown, C. T.** (under review). Growth, degrowth, and regrowth: The dialectic of adaptation and ecowelfare.
@@ -86,7 +119,12 @@ Chang, Y. L., **Brown, C. T.**, & Keh, M. (2025). CalWORKs WTW Racial Equity Das
 
 Hetling, A., Chang, Y. L., Fox-Dichter, S., **Brown, C. T.**, Gassman-Pines, A., Rothwell, D., & Nikolova, K. (R&R). A racial equity analysis of state TANF caseload trends: Examining the impact of the COVID-19 pandemic.
 
-##  Working Papers
+</div>
+
+###  Working Papers
+
+<div class="hanging-indent">
+
 **Brown, C. T.** (working). Technocare: A critical theory of technology and care.
 
 **Brown, C. T.**, Wang, J., & Chang, Y.-L. (working). Comparative energy and utility assistance and the welfare state.
@@ -107,8 +145,10 @@ Liang, Q., **Brown, C. T**. (working). County racial distribution and racial dis
 
 Grounder, B., & **Brown, C. T.** (working). Climate policy (in)equity: Analyzing private incentives under the Inflation Reduction Act for investments in climate vulnerable communities.
 
-# Research Experience
-## Research Assistantships
+</div>
+
+## Research Experience
+### Research Assistantships
 Racial Equity in the TANF Service Delivery Path to Family Stability and Self-Sufficiency
 * Research Assistant
 * 2023 - Present
@@ -145,7 +185,7 @@ Beyond Professional Identity
 * Harding University
 * PI: James Huff, Ph.D.
 
-## Research Fellowships
+### Research Fellowships
 Consortium for Equitable Disaster Resilience
 * Research Associate
 * 2024 - Present
@@ -182,11 +222,19 @@ Data Science for Social Justice Workshop
 * 2023
 * Social Science Data Laboratory, University of California, Berkeley
 
-# Presentations
-## Organized Panels
+## Presentations
+### Organized Panels
+
+<div class="hanging-indent">
+
 Ben Brik, A., & **Brown, C. T.** (2025). Social inclusion in transition: A crossroads of conceptualization, measurement, and policy in global contexts. International Public Policy Association, 2025.
 
-## Oral Presentations
+</div>
+
+### Oral Presentations
+
+<div class="hanging-indent">
+
 **Brown, C. T.** (2026, Jan.). Climate risk and the welfare state: Exploring the moderation of climate-adaptive welfare and ecowelfare on U.S. welfare enrollment after natural hazards. Society for Social Work Research, 2026.
 
 Grounder, B., **Brown, C. T.** (2026, Jan.). Climate policy (in)equity: Investigating private incentives under the Inflation Reduction Act for investments in marginalized communities. Society for Social Work Research, 2026.
@@ -221,7 +269,12 @@ Chang, Y. L., **Brown, C. T.** (2024, Jan.). Uncovering racial disparities in lo
 
 Chang, Y. L., **Brown, C. T.** (2023, Nov.). Uncovering racial disparities in local welfare-to-work program responses to the COVID-19 pandemic in California. Association Public Policy Analysis & Management 2023.
 
-## Poster Presentations
+</div>
+
+### Poster Presentations
+
+<div class="hanging-indent">
+
 **Brown, C. T.**, Nepomnyashcy, L., Patel, A. S. (2025, Jan.). Is the U.S. ecosocial safety net inequitable?: Comparing the Individuals and Households and National Flood Insurance programs. Society for Social Work Research 2025.
 
 **Brown, C. T.** (2023, May). Sustainable Social Inclusion through Eco-social Policy: Bridging Transdisciplinary Approaches to Ecomodernism and Post-growth. Sustainability Science Days 2023. University of Helsinki.
@@ -238,13 +291,28 @@ Chang, Y. L., **Brown, C. T.** (2023, Nov.). Uncovering racial disparities in lo
 
 **Brown, C. T.**, Huff, J. L., & Helpenstill, K. (2020). “I wasn’t wantin’ to go in the streets”: A case study of trauma and identity in chronic homelessness. 2021 International Congress for Qualitative Inquiry.
 
-## Panel Discussant
+</div>
+
+### Panel Discussant
+
+<div class="hanging-indent">
+
 Social Protection for Low-Income Populations in East Asia. Association Public Policy Analysis & Management 2024.
 
-## Roundtables
+</div>
+
+### Roundtables
+
+<div class="hanging-indent">
+
 Neimanas, N., **Brown, C. T.**, Vidal, C. G., Forbes, R. (2026, Jan.). Advocacy in a policy void: Climate and environmental justice in a deregulated policy environment across governance levels. Society for Social Work Research, 2026.
 
-## Workshops
+</div>
+
+### Workshops
+
+<div class="hanging-indent">
+
 **Brown, C. T.**, Martin, J., Pevitz, A., & Shapiro, R. (2021, June). Understanding students’ voting behaviors: How to assess political engagement moving forward. 2021 Civic Learning & Democratic Engagement Meeting.
 
 **Brown, C. T.**, Martin, J., Pevitz, A., & Shapiro, R. (2021, October). Assessing experiences of public safety as a catalyst for community engagement. 2021 Assessment Institute, Indiana University-Purdue University Indianapolis. https://iu.mediaspace.kaltura.com/media/t/1_hbdrrpjy.
@@ -255,7 +323,12 @@ Shapiro, R., **Brown, C. T.** (2021, June). Not just for voters: Including ineli
 
 Shapiro, R., **Brown, C. T.**, Martin, J., Pevitz, A., & (2021, October). Graduate student civic engagement: A case study in data, assessment, and evaluation as problem solving tools. 2021 Assessment Institute, Indiana University-Purdue University Indianapolis. https://iu.mediaspace.kaltura.com/media/t/1_ep1mo77u.
 
-## Webinars
+</div>
+
+### Webinars
+
+<div class="hanging-indent">
+
 **Brown, C. T.** (2022). Can young social workers make a difference? 2022 Student Advocacy Day, Congressional Research Institute for Social Work and Policy.
 
 **Brown, C. T.** (2022). Can young social workers make a difference? 2022 Social Work Day on the Hill, Congressional Research Institute for Social Work and Policy.
@@ -268,76 +341,64 @@ Soto, M., & **Brown, C. T.** (2021). Can social work save democracy? 2021 Social
 
 McClendon, G. & **Brown, C. T.** (2020). Local Leadership in Turbulent Times: How Ferguson Mayor Ella Jones and St. Louis County Prosecutor Wesley Bell Rose to the Challenge of Local Political Leadership.
 
-# Teaching
-## Supervised Instruction
-### University of California, Berkeley
-Fall, 2025: SOCWEL 112, Social Welfare Policy
+</div>
 
-Spring, 2025: SOCWEL 112, Social Welfare Policy
+## Teaching
+### Supervised Instruction
+#### University of California, Berkeley
+- Fall, 2025: SOCWEL 112, Social Welfare Policy
+- Spring, 2025: SOCWEL 112, Social Welfare Policy
+- Spring, 2024: SOCWEL 282B, Seminar in Social Welfare Research
+- Spring, 2023: SOCWEL 116, Poverty and Economic Justice
 
-Spring, 2024: SOCWEL 282B, Seminar in Social Welfare Research
+### Independent Instruction
+#### University of California, Berkeley
+##### Fall, 2025
+- Python Fundamentals
+- Python for Business Leaders, UC Berkeley Haas Master of Business Administration
 
-Spring, 2023: SOCWEL 116, Poverty and Economic Justice
+##### Spring, 2025
+- R Fundamentals
+- Python Machine Learning Fundamentals, UC Berkeley Master of Computational Social Science
+- GPT Fundamentals, UC Berkeley Master of Computational Social Science
+- Python Data Visualization
+- Python Web APIs
+- Python Web Scaping
 
-## Independent Instruction
-### University of California, Berkeley
-### Fall, 2025
-Python Fundamentals
+##### Fall, 2024
+- Python Fundamentals
+- Python Data Wrangling
+- Python Data Visualization
+- Machine Learning in Python
 
-Python for Business Leaders
+##### Summer, 2024
+- R Fundamentals, Instructor
+- Python Fundamentals, Instructor
+- Python Data Wrangling, Instructor
+- Python Web Scraping, Instructor
 
-### Spring, 2025
-R Fundamentals
+##### Spring, 2024
+- Institutional Review Board Fundamentals
 
-Python Machine Learning Fundamentals, UC Berkeley Master of Computational Social Science
+#### Harding University
+##### Spring, 2022	
+- SOC 2030-03, General Sociology		
+- SWK 4510-01, Seminar, Field Liaison
+- SWK 4520-01, Field Placement, Field Liaison
 
-GPT Fundamentals, UC Berkeley Master of Computational Social Science
+##### Fall, 2021	
+- SWK 3300-01, Social Work Research
 
-Python Data Visualization
+- SOC 2030-04, General Sociology
 
-Python Web API’s
+##### Spring, 2021	
+- SWK 4510-01, Seminar, Field Liaison
+- SWK 4520-01, Field Placement, Field Liaison
 
-Python Web Scaping
+### Guest Lectures
 
-### Fall, 2024
-Python Fundamentals
+<div class="hanging-indent">
 
-Python Data Wrangling
-
-Python Data Visualization
-
-Machine Learning in Python
-### Summer, 2024
-R Fundamentals, Instructor
-
-Python Fundamentals, Instructor
-
-Python Data Wrangling, Instructor
-
-Python Web Scraping, Instructor
-
-### Spring, 2024
-Institutional Review Board Fundamentals
-
-### Harding University
-### Spring, 2022	
-SOC 2030-03, General Sociology		
-
-SWK 4510-01, Seminar, Field Liason
-
-SWK 4520-01, Field Placement, Field Liaison
-
-### Fall, 2021	
-SWK 3300-01, Social Work Research
-
-SOC 2030-04, General Sociology
-
-### Spring, 2021	
-SWK 4510-01, Seminar, Field Liaison
-
-SWK 4520-01, Field Placement, Field Liaison
-
-## Guest Lectures
 **Brown, C. T.** (2025, Mar.). Ecosocial policy and social work. Social Welfare Policy, School of Social Welfare, University of California, Berkeley.
 
 **Brown, C. T.** (2024, Feb.). Observational and quasi-experimental designs in program evaluation. Seminar in Social Welfare Research, School of Social Welfare, University of California, Berkeley.
@@ -356,8 +417,10 @@ SWK 4520-01, Field Placement, Field Liaison
 
 **Brown, C. T.** (2020, Sep.). Advising Child Welfare Administrators. Transdisciplinary Problem Solving: Child Maltreatment Prevention. Brown School of Social Work, Washington University in St. Louis.
 
-# Practice Experience
-## Professional Experience
+</div>
+
+## Practice Experience
+### Professional Experience
 Ecosocial Collective
 * Founder & Executive Director
 * 2025 - Present
@@ -386,13 +449,13 @@ River City Ministry
 * 2017 - 2019
 * Supervisor: Steven Morris, MPP
 
-## Fellowship Experience
+### Fellowship Experience
 Office of Congresswoman Barbara Lee
 * Congressional Intern
 * 2022-2023
 
 Missouri State Senate and House
-* Legislative Aid
+* Legislative Aide
 * 2019 - 2020
 
 City Garden Montessori School
@@ -408,71 +471,58 @@ Arkansas Governor's Office
 * 2019
 
 Arkansas Division of Children and Family Services
-* Legislative Aid
+* Legislative Aide
 * 2019
 
-# Service & Leadership
-## Academic
-The Chancellor’s Advisory Committee on Work and Family, University of California, Berkeley (2022-2024)
+## Service & Leadership
+### Academic
+- The Chancellor’s Advisory Committee on Work and Family, University of California, Berkeley (2022-2024)
+- Dean Finalist Student Interview Panel, School of Social Welfare, University of California, Berkeley (2024)
 
-Dean Finalist Student Interview Panel, School of Social Welfare, University of California, Berkeley (2024)
+### Supervision
+-  Qi-Hao Liang, 2023-2024 Mark Chesler Award at University of Michigan Department of Sociology for “County Racial Distribution and Racial Disparities in Welfare Sanctions: Exploring Group Threat and Contact Theories in California's TANF System”
 
-## Supervision
-Qi-Hao Liang, 2023-2024 Mark Chesler Award at University of Michigan Department of Sociology for “County Racial Distribution and Racial Disparities in Welfare Sanctions: Exploring Group Threat and Contact Theories in California's TANF System”
+### Volunteer
+- BSW Student Board Representative, National Association of Social Workers-Arkansas (2018-2019)
+- Communications Director, Ella Jones’ Mayoral Task Force (2020-2022)
+- Constituent Services, Dr. Sam Page’s County Executive Campaign (2020)
+- Development Advisor and Child Care Worker, Sparrow’s Promise (2017-2022)
+- Director of Data and Strategy, Ella Jones’ Mayoral Campaign (2019-2020)
+- Field Director, Rep. Tommie Pierson’s Missouri State Senate Campaign (2020)
+- Lead Organizer for Student Advocacy Day, Congressional Research Institute for Social Work and Policy, (2022)
+- Leadership Team for Student Advocacy Day, Congressional Research Institute for Social Work and Policy, (2019-2022)
+- Research and Policy Advisor, Modern Widows Club (2020-2022)
 
-## Volunteer
-BSW Student Board Representative, National Association of Social Workers-Arkansas (2018-2019)
+## Ad-hoc Editorial & Scientific Review
+- Journal of the Sociology of Race and Ethnicity
+- Psychological Trauma: Theory, Research, Practice, and Policy
+- Stat
 
-Communications Director, Ella Jones’ Mayoral Task Force (2020-2022)
+## Honors, Fellowships, & Awards
+### Honors
+- Honors Graduate, Harding University
+- Outstanding Social Work Student 2019, Harding University 
+- Rhodes Scholarship Finalist 2020
 
-Constituent Services, Dr. Sam Page’s County Executive Campaign (2020)
+### Professional Membership
+- Environmental Politics and Governance Mentoring Program – Mentor: Dr. Aseem Prkash & Nives Dolsak	
+- Randolph Mentoring Program - Mentor: Dr. Tanya Brice Smith
+- Scholars Strategy Network - https://scholars.org/scholar/christopher-brown
 
-Development Advisor and Child Care Worker, Sparrow’s Promise (2017-2022)
+### Scholarship
+- Arkansas Governor’s Distinguished Scholar
+- Dean’s Scholarship in Social Work, Washington University in St. Louis
+- Social Welfare Departmental Doctoral Fellowship, University of California, Berkeley
+- Trustee Scholar, Harding University
 
-Director of Data and Strategy, Ella Jones’ Mayoral Campaign (2019-2020)
+## Media & Coverage
 
-Field Director, Rep. Tommie Pierson’s Missouri State Senate Campaign (2020)
+<div class="hanging-indent">
 
-Lead Organizer for Student Advocacy Day, Congressional Research Institute for Social Work and Policy, (2022)
-
-Leadership Team for Student Advocacy Day, Congressional Research Institute for Social Work and Policy, (2019-2022)
-
-Research and Policy Advisor, Modern Widows Club (2020-2022)
-
-# Ad-hoc Editorial & Scientific Review
-Journal of the Sociology of Race and Ethnicity
-
-Psychological Trauma: Theory, Research, Practice, and Policy
-
-Stat
-
-# Honors, Fellowships, & Awards
-## Honors
-Honors Graduate, Harding University
-
-Outstanding Social Work Student 2019, Harding University 
-
-Rhodes Scholarship Finalist 2020
-
-## Membership
-Environmental Politics and Governance Mentoring Program – Mentor: Dr. Aseem Prkash & Nives Dolsak	
-
-Randolph Mentoring Program - Mentor: Dr. Tanya Brice Smith
-
-Scholars Strategy Network - https://scholars.org/scholar/christopher-brown
-
-## Scholarship
-Arkansas Governor’s Distinguished Scholar
-
-Dean’s Scholarship in Social Work, Washington University in St. Louis
-
-Social Welfare Departmental Doctoral Fellowship, University of California, Berkeley
-
-Trustee Scholar, Harding University
-
-# Featured Publications
 Keaggy, D. T., & Schoenherr, N. (2020, November 22). Three Washington University scholars were Rhodes finalists. The Source. https://source.wustl.edu/2020/11/three-washington- university-scholars-were-rhodes-finalists/
 
 Poor, T. (2020, June 11). New student fellowships assess racial equity across organizations. Washington University in St. Louis, Brown School. https://brownschool.wustl.edu/News/Pages/New-Student-Fellowships-Assess-Racial- Equity-Across-Organizations.aspx
 
 Schoenherr, N. (2021, June 2). Brown School works with Webster Groves to improve housing equity. The Source, Washington University in St. Louis, https://source.wustl.edu/2021/06/brown-school-works-with-webster-groves-to-improve-housing-equity/.
+
+</div>
