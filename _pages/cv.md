@@ -30,7 +30,7 @@ redirect_from:
 ### Published
 #### Journal Articles
 
-<div class="hanging-indent">
+<div class="hanging-indent" markdown="1">
 
 **Brown, C. T.** (2025). Ecosocial adaptation and the care professions: A systems-ecological approach to climate risk. Social Work in Public Health, 1-15. https://doi.org/10.1080/19371918.2025.2554664.
 
@@ -64,7 +64,7 @@ Miller, S., Roll, S., **Brown, C. T.**, Brugger, L., & Grinstein-Weiss, M. (2024
 
 #### Book Chapters
 
-<div class="hanging-indent">
+<div class="hanging-indent" markdown="1">
 
 Perone, A., **Brown, C. T.**, Fletcher, K., Urrutia, L. (in press). The five C’s of climate change and caregiving: Moving from catastrophe to cohesive caregiving for older adults. In Pilemer, K & Ayalon, L. (eds.) Aging and climate change. Bristol: Policy Press.
 
@@ -83,7 +83,7 @@ Bandaru, S., **Brown, C. T.**, Goldstein, E., Serwin, A., & Taylor P. (2021). CL
 
 #### Op-Eds
 
-<div class="hanging-indent">
+<div class="hanging-indent" markdown="1">
 
 **Brown, C. T.**, Chang, Y. L. (2024, Oct.) Ecosocial policy and the social risks of climate change: Foundations of the U.S. ecosocial safety net. The Social Policy Blog. https://socialpolicyblog.com/2024/10/24/ecosocial-policy-and-the-social-risks-of-climate-change-foundations-of-the-u-s-ecosocial-safety-net/.
 
@@ -97,7 +97,7 @@ Rivkin-Fish, Z., Fichman, B., & **Brown, C. T.** (2021, Jul. 8). New opportuniti
 
 #### Dashboards
 
-<div class="hanging-indent">
+<div class="hanging-indent" markdown="1">
 
 Chang, Y. L., **Brown, C. T.**, & Keh, M. (2025). CalWORKs WTW Racial Equity Dashboard, Version 2. https://fssrn.shinyapps.io/CalWORKS-WTW-Racial-Equity-Dashboard/.
 
@@ -105,7 +105,7 @@ Chang, Y. L., **Brown, C. T.**, & Keh, M. (2025). CalWORKs WTW Racial Equity Das
 
 ### Under Review
 
-<div class="hanging-indent">
+<div class="hanging-indent" markdown="1">
 
 **Brown, C. T.** (under review). Contradictions of the ecowelfare state: The state, the human, and nature.
 
@@ -123,7 +123,7 @@ Hetling, A., Chang, Y. L., Fox-Dichter, S., **Brown, C. T.**, Gassman-Pines, A.,
 
 ###  Working Papers
 
-<div class="hanging-indent">
+<div class="hanging-indent" markdown="1">
 
 **Brown, C. T.** (working). Technocare: A critical theory of technology and care.
 
@@ -225,7 +225,7 @@ Data Science for Social Justice Workshop
 ## Presentations
 ### Organized Panels
 
-<div class="hanging-indent">
+<div class="hanging-indent" markdown="1">
 
 Ben Brik, A., & **Brown, C. T.** (2025). Social inclusion in transition: A crossroads of conceptualization, measurement, and policy in global contexts. International Public Policy Association, 2025.
 
@@ -233,7 +233,7 @@ Ben Brik, A., & **Brown, C. T.** (2025). Social inclusion in transition: A cross
 
 ### Oral Presentations
 
-<div class="hanging-indent">
+<div class="hanging-indent" markdown="1">
 
 **Brown, C. T.** (2026, Jan.). Climate risk and the welfare state: Exploring the moderation of climate-adaptive welfare and ecowelfare on U.S. welfare enrollment after natural hazards. Society for Social Work Research, 2026.
 
@@ -273,7 +273,7 @@ Chang, Y. L., **Brown, C. T.** (2023, Nov.). Uncovering racial disparities in lo
 
 ### Poster Presentations
 
-<div class="hanging-indent">
+<div class="hanging-indent" markdown="1">
 
 **Brown, C. T.**, Nepomnyashcy, L., Patel, A. S. (2025, Jan.). Is the U.S. ecosocial safety net inequitable?: Comparing the Individuals and Households and National Flood Insurance programs. Society for Social Work Research 2025.
 
@@ -295,7 +295,7 @@ Chang, Y. L., **Brown, C. T.** (2023, Nov.). Uncovering racial disparities in lo
 
 ### Panel Discussant
 
-<div class="hanging-indent">
+<div class="hanging-indent" markdown="1">
 
 Social Protection for Low-Income Populations in East Asia. Association Public Policy Analysis & Management 2024.
 
@@ -303,7 +303,7 @@ Social Protection for Low-Income Populations in East Asia. Association Public Po
 
 ### Roundtables
 
-<div class="hanging-indent">
+<div class="hanging-indent" markdown="1">
 
 Neimanas, N., **Brown, C. T.**, Vidal, C. G., Forbes, R. (2026, Jan.). Advocacy in a policy void: Climate and environmental justice in a deregulated policy environment across governance levels. Society for Social Work Research, 2026.
 
@@ -311,7 +311,7 @@ Neimanas, N., **Brown, C. T.**, Vidal, C. G., Forbes, R. (2026, Jan.). Advocacy 
 
 ### Workshops
 
-<div class="hanging-indent">
+<div class="hanging-indent" markdown="1">
 
 **Brown, C. T.**, Martin, J., Pevitz, A., & Shapiro, R. (2021, June). Understanding students’ voting behaviors: How to assess political engagement moving forward. 2021 Civic Learning & Democratic Engagement Meeting.
 
@@ -327,7 +327,7 @@ Shapiro, R., **Brown, C. T.**, Martin, J., Pevitz, A., & (2021, October). Gradua
 
 ### Webinars
 
-<div class="hanging-indent">
+<div class="hanging-indent" markdown="1">
 
 **Brown, C. T.** (2022). Can young social workers make a difference? 2022 Student Advocacy Day, Congressional Research Institute for Social Work and Policy.
 
@@ -397,7 +397,7 @@ McClendon, G. & **Brown, C. T.** (2020). Local Leadership in Turbulent Times: Ho
 
 ### Guest Lectures
 
-<div class="hanging-indent">
+<div class="hanging-indent" markdown="1">
 
 **Brown, C. T.** (2025, Mar.). Ecosocial policy and social work. Social Welfare Policy, School of Social Welfare, University of California, Berkeley.
 
@@ -517,7 +517,7 @@ Arkansas Division of Children and Family Services
 
 ## Media & Coverage
 
-<div class="hanging-indent">
+<div class="hanging-indent" markdown="1">
 
 Keaggy, D. T., & Schoenherr, N. (2020, November 22). Three Washington University scholars were Rhodes finalists. The Source. https://source.wustl.edu/2020/11/three-washington- university-scholars-were-rhodes-finalists/
 
