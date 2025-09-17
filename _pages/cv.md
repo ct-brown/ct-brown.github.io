@@ -31,8 +31,7 @@ kramdown:
 * Bachelor of Social Work, Harding University
 
 ##  Publications
-### Published
-#### Journal Articles
+### Journal Articles
 
 <div class="hanging-indent" markdown="1">
 
@@ -66,7 +65,7 @@ Miller, S., Roll, S., **Brown, C. T.**, Brugger, L., & Grinstein-Weiss, M. (2024
 
 </div>
 
-#### Book Chapters
+### Book Chapters
 
 <div class="hanging-indent" markdown="1">
 
@@ -80,7 +79,7 @@ White, R., **Brown, C. T.**, Pevits, A., & Martin, J. (2023). Contextualization 
 
 </div>
 
-#### Policy Briefs
+### Policy Briefs
 
 <div class="hanging-indent" markdown="1">
 
@@ -90,7 +89,7 @@ Bandaru, S., **Brown, C. T.**, Goldstein, E., Serwin, A., & Taylor P. (2021). CL
 
 </div>
 
-#### Op-Eds
+### Op-Eds
 
 <div class="hanging-indent" markdown="1">
 
@@ -104,7 +103,7 @@ Rivkin-Fish, Z., Fichman, B., & **Brown, C. T.** (2021, Jul. 8). New opportuniti
 
 </div>
 
-#### Dashboards
+### Dashboards
 
 <div class="hanging-indent" markdown="1">
 
@@ -354,19 +353,19 @@ McClendon, G. & **Brown, C. T.** (2020). Local Leadership in Turbulent Times: Ho
 
 ## Teaching
 ### Supervised Instruction
-#### University of California, Berkeley
+### University of California, Berkeley
 - Fall, 2025: SOCWEL 112, Social Welfare Policy
 - Spring, 2025: SOCWEL 112, Social Welfare Policy
 - Spring, 2024: SOCWEL 282B, Seminar in Social Welfare Research
 - Spring, 2023: SOCWEL 116, Poverty and Economic Justice
 
 ### Independent Instruction
-#### University of California, Berkeley
-##### Fall, 2025
+### University of California, Berkeley
+### Fall, 2025
 - Python Fundamentals
 - Python for Business Leaders, UC Berkeley Haas Master of Business Administration
 
-##### Spring, 2025
+### Spring, 2025
 - R Fundamentals
 - Python Machine Learning Fundamentals, UC Berkeley Master of Computational Social Science
 - GPT Fundamentals, UC Berkeley Master of Computational Social Science
@@ -374,33 +373,33 @@ McClendon, G. & **Brown, C. T.** (2020). Local Leadership in Turbulent Times: Ho
 - Python Web APIs
 - Python Web Scaping
 
-##### Fall, 2024
+### Fall, 2024
 - Python Fundamentals
 - Python Data Wrangling
 - Python Data Visualization
 - Machine Learning in Python
 
-##### Summer, 2024
+### Summer, 2024
 - R Fundamentals, Instructor
 - Python Fundamentals, Instructor
 - Python Data Wrangling, Instructor
 - Python Web Scraping, Instructor
 
-##### Spring, 2024
+### Spring, 2024
 - Institutional Review Board Fundamentals
 
-#### Harding University
-##### Spring, 2022	
+### Harding University
+### Spring, 2022	
 - SOC 2030-03, General Sociology		
 - SWK 4510-01, Seminar, Field Liaison
 - SWK 4520-01, Field Placement, Field Liaison
 
-##### Fall, 2021	
+### Fall, 2021	
 - SWK 3300-01, Social Work Research
 
 - SOC 2030-04, General Sociology
 
-##### Spring, 2021	
+### Spring, 2021	
 - SWK 4510-01, Seminar, Field Liaison
 - SWK 4520-01, Field Placement, Field Liaison
 
