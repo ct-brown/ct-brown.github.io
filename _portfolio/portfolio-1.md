@@ -1,5 +1,5 @@
 ---
-title: "Dissertation: Climate Change and the (Eco)Welfare State: The Rise of Ecodecommodification"
+title: "Dissertation: W"
 excerpt: "My doctoral dissertation that evaluates global ecowelfare and the relationship between climate change and the U.S. welfare state.<br/><img src='/images/portfolio1.png'>"
 collection: portfolio
 ---

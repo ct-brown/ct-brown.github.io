@@ -7,16 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd-year PhD Student with the School of Social Welfare and Program in Critical Theory at the University of California, Berkeley.
+I’m a fourth-year PhD candidate in Social Welfare and Critical Theory at UC Berkeley.
 
-My research theorizes, evaluates, and critiques the emerging field of "ecosocial" policy around the planet and evaluates the effects of climate change on welfare states. My work, professional and academic, is centered around creating a more just, liberated, and equitable planet for all amidst our suffering.
+I study ecosocial policy and the ecowelfare state: how climate risk reshapes welfare institutions—-and how adaptation can either entrench or unsettle growth. My work blends econometrics and computational methods with comparative political economy and critical theory. I’m a social worker by training and have served in micro- and macro-practice roles in social and environmental policy across levels of the public and private sectors. I'm also the founder of the Ecosocial Collective, a nonprofit grassroots ecosocial policy service, education, and policy incubator.
 
-I work in the traditions of comparative and critical political economy of (eco)welfare--combining econometric, computational, and historical analysis with rigorous theory. I'm theoretically and methodologically eclectic, though drawn to critical realism, working across the critical social sciences and humanities.
+When I’m not writing or teaching, I’m with my spouse, friends, and our Labrador, Indigo. I grew up near Paragould, Arkansas, and I love rock climbing, pottery, painting, poetry, travel, and exploring new wines and teas.
 
-I am a social worker by training, having served in a variety of micro and macro positions, including with the Office of Congresswoman Barbara Lee, the Assistant Secretary for the Administration for Children and Families, and Mayor Ella Jones of Ferguson, Missouri. By consequence, my primary object of interest is the comparative (eco)welfare state, in terms of its functions, aesthetics, and ideologies.
-
-When not reading and writing, I like to spend time with my spouse, friends, and labrador retriever, Indigo. I am from Paragould, Arkansas, and love rock climbing, painting, poetry, traveling, and trying new wine and tea.
-
-You can find my CV, current projects, and stranded thoughts on this site.
-
-Please feel free to contact me if you'd like to chat.   
+See my CV, current projects, and notes on this site. Get in touch--I’d love to connect.

@@ -10,29 +10,30 @@ redirect_from:
 {% include base_path %}
 
 # Education
-* Ph.D in Social Welfare with a Designated Emphasis in Critical Theory, University of California, Berkeley, 2027 (expected)
-* Certificate in Applied Data Science, University of California (expected)
-* Certificate in Teaching and Learning in Higher Education, University of California, Berkeley (expected)
-* Master of Social Work, Washington University in St. Louis, 2020
-* Bachelor of Social Work, Harding University, 2015
+* Ph.D in Social Welfare with a Designated Emphasis in Critical Theory, University of California, Berkeley (expected)
+* Certificate in Applied Data Science, University of California
+* Certificate in Teaching and Learning in Higher Education, University of California, Berkeley
+* Master of Social Work, Washington University in St. Louis
+* Bachelor of Social Work, Harding University
 
 #  Publications
-##  Working Papers
-**Brown, C. T.** (working). Contradictions of the ecowelfare state: The state and its construction of the human and nature.
-
-**Brown, C. T.**, Nepomnyashcy, L., Patel, A. S. (working). Is the U.S. ecosocial safety net inequitable?: Comparing the Individuals and Households and National Flood Insurance programs.
-
-**Brown, C. T.**, Prakesh, A., Dolsak, N. (working). New politics of climate change: From a regulatory state to a welfare state.
-
-Chang, Y. L., **Brown, C. T.**, Keh, M. (working). Uncovering racial disparities in local welfare-to-work program responses to the COVID-19 pandemic in California.
-
-Liang, Q., Brown, **C. T.** (working). County racial distribution and racial disparities in welfare sanctions: Exploring group threat and contact theories in California's TANF system.
-
 ## Published
 ### Journal Articles
+**Brown, C. T.** (2025). Brown, C. T. (2025). Ecosocial adaptation and the care professions: A systems-ecological approach to climate risk. Social Work in Public Health, 1-15. https://doi.org/10.1080/19371918.2025.2554664.
+
+**Brown, C. T.** (in press). Ecosocial policy. In Aspalter, C. (ed.), Elgar Research Encyclopedia of Social Policy. Edward Elgar.
+
+**Brown, C. T.** (in press). Computational social policy. In Aspalter, C. (ed.), Elgar Research Encyclopedia of Social Policy. Edward Elgar.
+
+Brik, A. B., & **Brown, C. T.** (2025). A critical review of conceptualization and measurement of social inclusion: Directions for conceptual clarity. Social Policy and Society, First View, 1-14. https://doi.org/10.1017/S1474746425000302.
+
+**Brown, C. T.**, & Ben Brik, A. (2025). Welfare regime typologies: The six worlds of social inclusion. Journal of International and Comparative Social Policy. https://doi.org/10.1017/ics.2024.14.
+
+Ben Brik, A., & **Brown, C. T.** (2025). Temporary measures or lasting reform? Examining Gulf States’ evolving welfare policies in response to the global health crisis. Social Policy & Society, First Look, 1-25. DOI:10.1017/S1474746424000630.
+
 **Brown, C. T.**, & Chang, Y. L. (2024). Ecosocial policy and the social risks of climate change: Foundations of the U.S. ecosocial safety net. Journal of Social Policy. https://doi.org/10.1017/S0047279424000126.
 
-**Brown, C. T.**, & Ben Brik, A. (in press). Welfare regime typologies: The six worlds of social inclusion. Journal of International and Comparative Social Policy.
+Ben Brik, A. & **Brown, C. T.** (2024). Global trends in social inclusion and social inclusion policy: A systematic review and research agenda. Social Policy & Society, 1-24. DOI:10.1017/S147474642400054X.
 
 **Brown, C. T.**, & Gilbert, N. (2024). Comparative social policy. Encyclopedia of Social Work. https://doi.org/10.1093/acrefore/9780199975839.013.879.
 
@@ -47,7 +48,7 @@ Miller, S., Roll, S., **Brown, C. T.**, Brugger, L., & Grinstein-Weiss, M. (2024
 **Brown, C. T.**, & Harrold, J. (2021). Widowhood and mental health issues: Predictors of anxiety, depression, and PTSD among those who have been widowed. Illness, Crisis & Loss, 31(2). https://doi.org/10.1177/10541373211054189.
 
 ### Book Chapters
-Perone, A., **Brown, C. T.**, Fletcher, K., Urrutia, L. (in press). Caregiving amidst climate change: From catastrophic to cohesive caregiving for older and disabled adults. In Climate change and aging. Policy Press.
+Perone, A., **Brown, C. T.**, Fletcher, K., Urrutia, L. (in press). The five C’s of climate change and caregiving: Moving from catastrophe to cohesive caregiving for older adults. In Pilemer, K & Ayalon, L. (eds.) Aging and climate change. Bristol: Policy Press.
 
 Hamilton, G., & **Brown, C. T.** (in press). What is environmental justice? In Vandergrift, K. Social Justice. Solana Beach: Cognella.
 
@@ -56,6 +57,8 @@ Hamilton, G., & **Brown, C. T.** (in press). What is environmental justice? In V
 White, R., **Brown, C. T.**, Pevits, A., & Martin, J. (2023). Contextualization of transformative civic education. In Hoggan-Kloubert, T., Mabrey III, P. E., & Hoggan, C. (eds.). Transformative Civic Education in Democratic Societies. Michigan State University Press: East Lansing, Michigan.
 
 ### Policy Briefs
+Chang, Y. L., & **Brown, C. T.**, Keh, M. (2025). Geographic and racial disparities in employment, earnings, sanctions, and reentries in CalWORKs amid the COVID-19 pandemic.
+
 Bandaru, S., **Brown, C. T.**, Goldstein, E., Serwin, A., & Taylor P. (2021). CLT Policy Playbook. Center for Social Development.
 
 ### Op-Eds
@@ -67,18 +70,42 @@ Rivkin-Fish, Z., Fichman, B., & **Brown, C. T.** (2021, Jul. 8). New opportuniti
 
 **Brown, C. T.** (2020). We are the cure: How to help our democracy recover from the pandemic. Gephardt Institute for Civic and Community Engagement, https://gephardtinstitute.wustl.edu/university-wide-initiatives/this-civic-moment/thiscivicmomentseries/thiscivicmoment-taylor-brown/.
 
-### Under Review
-Grounder, B., **Brown, C. T.**, & Tan, K., P., H. (under review). Climate policy principles for an equitable, post-growth society. Energy Research and Social Science.
+### Dashboards
+Chang, Y. L., **Brown, C. T.**, & Keh, M. (2025). CalWORKs WTW Racial Equity Dashboard, Version 2. https://fssrn.shinyapps.io/CalWORKS-WTW-Racial-Equity-Dashboard/.
 
-Ben Brik, A. & **Brown, C. T.** (R&R). A narrative review of conceptualization and measurement of social inclusion: Directions for conceptual clarity. Social Policy & Society.
+## Under Review
+**Brown, C. T.** (under review). Contradictions of the ecowelfare state: The state, the human, and nature.
 
-Ben Brik, A. & **Brown, C. T.** (R&R). Global trends in social inclusion and social inclusion policy: A systematic review and research agenda. Social Policy & Society.
+**Brown, C. T.** (under review). Growth, degrowth, and regrowth: The dialectic of adaptation and ecowelfare.
 
-Ben Brik, A. & **Brown, C. T.** (R&R). Social protection and labor market responses to the COVID-19 pandemic in Arab Gulf countries: An AI-driven analysis through welfare regime and punctuated equilibrium lenses. Social Policy & Society.
+**Brown, C. T.**, Nepomnyashcy, L., Patel, A. S. (under review). Is the U.S. ecosocial safety net inequitable?: Comparing the Individuals and Households and National Flood Insurance programs.
 
-Ben Brik, A. & **Brown, C. T.** (R&R). Saudi’s social protection and labor market responses to the COVID-19 Pandemic: Rethinking policies extend social protection to migrant workers to achieve universal coverage in a post-COVID era. Social Policy & Society.
+**Brown, C. T.** (under review). Adapting the safety net: The role of climate-adapted and ecowelfare amid climate change.
 
-Ben Brik, A., & **Brown, C. T.** (under review). Can policy arrangements in rentier states evolve? Analysing the shift from étatism to pluralism in social policy. Social Policy & Society.
+**Brown, C. T.** (under review). Social inclusion as ecosocial adaptation: The role of inclusion and welfare regimes in adaptation readiness and climate vulnerability in the Global North and South.
+
+Hetling, A., Chang, Y. L., Fox-Dichter, S., **Brown, C. T.**, Gassman-Pines, A., Rothwell, D., & Nikolova, K. (R&R). A racial equity analysis of state TANF caseload trends: Examining the impact of the COVID-19 pandemic.
+
+##  Working Papers
+**Brown, C. T.** (working). Technocare: A critical theory of technology and care.
+
+**Brown, C. T.**, Wang, J., & Chang, Y.-L. (working). Comparative energy and utility assistance and the welfare state.
+
+**Brown, C. T.** & Chang, Y. L. (working). Hotspots of inequity: Space-time and machine learning of U.S. ecowelfare.
+
+**Brown, C. T.**, Dolsak, N., & Prakash, A. (working). Does mitigation delay planning for adaptation? A panel analysis, 1995-2020.
+
+**Brown, C. T.**, Dolsak, N., & Prakash, A. (working). Inequality and climate change.
+
+**Brown, C. T.**, Rakasi, M., & Singhvi, A. (working). A divided ecowelfare state?: A network analysis of disaster capitalism and the U.S. ecowelfare state.
+
+Ben Brik, A., **Brown, C. T.**, Liang, Q. (working). Social inclusion in the Middle East and Northern Africa: Methodology for the A-SCOPE Survey in 11 MENA countries.
+
+Chang, Y. L., **Brown, C. T.**, Keh, M. (working). Uncovering racial disparities in local welfare-to-work program responses to the COVID-19 pandemic in California.
+
+Liang, Q., **Brown, C. T**. (working). County racial distribution and racial disparities in welfare sanctions: Exploring group threat and contact theories in California's TANF system.
+
+Grounder, B., & **Brown, C. T.** (working). Climate policy (in)equity: Analyzing private incentives under the Inflation Reduction Act for investments in climate vulnerable communities.
 
 # Research Experience
 ## Research Assistantships
@@ -155,9 +182,97 @@ Data Science for Social Justice Workshop
 * 2023
 * Social Science Data Laboratory, University of California, Berkeley
 
+# Presentations
+## Organized Panels
+Ben Brik, A., & **Brown, C. T.** (2025). Social inclusion in transition: A crossroads of conceptualization, measurement, and policy in global contexts. International Public Policy Association, 2025.
+
+## Oral Presentations
+**Brown, C. T.** (2026, Jan.). Climate risk and the welfare state: Exploring the moderation of climate-adaptive welfare and ecowelfare on U.S. welfare enrollment after natural hazards. Society for Social Work Research, 2026.
+
+Grounder, B., **Brown, C. T.** (2026, Jan.). Climate policy (in)equity: Investigating private incentives under the Inflation Reduction Act for investments in marginalized communities. Society for Social Work Research, 2026.
+
+Chang, Y. L., **Brown, C. T.** (2026, Jan.). Investigating the welfare-to-work requirements and sanction-lifted policies following the COVID-19 pandemic through an equity lens. Society for Social Work Research, 2026.
+
+**Brown, C. T.** (2025, Nov.). Climate risk and the welfare state: Exploring the moderation of climate-adaptive welfare and ecowelfare on U.S. welfare enrollment after natural hazards. Association Public Policy Analysis & Management 2025.
+
+Chang, Y. L., **Brown, C. T.** (2025, Nov.). Investigating the welfare-to-work requirements and sanction-lifted policies following the COVID-19 pandemic through an equity lens. Association Public Policy Analysis & Management 2025
+
+**Brown, C. T.**, (2025, Oct.). When helping hurts: Growth, adaptation, and a critique of ecowelfare. Extreme Weather Events, Climate Adaptation and Eco-social Policies Colloquium, Sustainable Welfare & Eco-social Policy Network.
+
+**Brown, C. T.** (2025, June). Climate risk and the welfare state: Exploring the moderation of climate-adaptive welfare and ecowelfare on U.S. welfare enrollment after natural hazards. Sustainable Social Policy Workshop, London School of Economics.
+
+**Brown, C. T.** (2025, June). Climate risk and the welfare state: Exploring the moderation of climate-adaptive welfare and ecowelfare on U.S. welfare enrollment after natural hazards. Social Ecological Transitions Workshop, Sciences Po.
+
+Perone, A., **Brown, C. T.**, Fletcher, K., Urrutia, L. (2025, June). The five C’s of climate change and caregiving: Moving from catastrophic to cohesive caregiving for older and disabled adults. Transforming Care Conference.
+
+**Brown, C. T.**, Nepomnyashcy, L., Patel, A. S. (2024, Nov.). Is the U.S. ecosocial safety net inequitable?: Comparing the Individuals and Households and National Flood Insurance programs. Association Public Policy Analysis & Management 2024.
+
+Chang, Y. L., Keh, M., **Brown, C. T.** (2024, Nov.). Analyzing racial disparities in welfare sanctions and employment outcomes: A study of welfare-to-work systems across California counties through the COVID-19 pandemic. Association Public Policy Analysis & Management 2024.
+
+Hetling, A., Chang, Y. L., Fox-Dichter, S., **Brown, C. T.**, Gassman-Pines, A., Nikolova, K., Rothwell, D. (2024, Nov). Did TANF policy changes during COVID-19 matter? An examination of TANF caseloads by race and ethnicity. Association Public Policy Analysis & Management 2024.
+
+**Brown, C. T.**, & Chang, Y. L. (2024, Oct.). Ecosocial policy and the social risks of climate change: Foundations of the U.S. ecosocial safety net. Global Welfare Regime Conference at National Taiwan University.
+
+Hetling, A., Chang, Y. L., Gassman-Pines, A., Nikolova, K., Rothwell, D., Fox-Dichter, S., **Brown, C. T.** (2024, May). Did TANF policy changes during COVID-19 matter? An examination of TANF caseloads by race and ethnicity. Research and Evaluation Conference on Self-Sufficiency.
+
+Chang, Y. L., **Brown, C. T.** (2024, Jan.). Uncovering racial disparities in local welfare-to-work program responses to the COVID-19 pandemic in California. Society for Social Work Research 2024.
+
+**Brown, C. T.**, & Chang, Y. L. (2023, Dec.). Ecosocial policy and the social risks of climate change: Foundations of the U.S. ecosocial safety net. Applying Sustainability Transition Research in Social Work Tackling Major Societal Challenge of Social Inclusion. University of Jyväskylä.
+
+Chang, Y. L., **Brown, C. T.** (2023, Nov.). Uncovering racial disparities in local welfare-to-work program responses to the COVID-19 pandemic in California. Association Public Policy Analysis & Management 2023.
+
+## Poster Presentations
+**Brown, C. T.**, Nepomnyashcy, L., Patel, A. S. (2025, Jan.). Is the U.S. ecosocial safety net inequitable?: Comparing the Individuals and Households and National Flood Insurance programs. Society for Social Work Research 2025.
+
+**Brown, C. T.** (2023, May). Sustainable Social Inclusion through Eco-social Policy: Bridging Transdisciplinary Approaches to Ecomodernism and Post-growth. Sustainability Science Days 2023. University of Helsinki.
+
+**Brown, C. T.** (2023, May). Natural Hazards as Temporal Opportunities for Policy Change: Reframing Disaster Recovery as a Time to Build Post-Growth Societies. Interdisciplinary Workshop on Environmental Justice and Time. University of Stirling.
+
+**Brown, C. T.** (2023, April). Social Work and the U.S. Eco-Social Safety Net: Opportunities to Advance Environmental Justice. Virtual Environmental Justice and Social Work Conference. Adelphi University, New York.
+
+**Brown, C. T.** (2023, Jan.). Understanding American Welfare State Retrenchment through the Lens of Public Opinion Toward Welfare Spending. Society for Social Work Research 2023. Session ID: 14107.
+
+**Brown, C. T.** (2020). Does automatic voter registration increase voter turnout?: Difference-in- differences. Research Without Walls. Brown School of Social Work: Washington University in St. Louis. 
+
+**Brown, C. T.** (2020). How healthy is our democracy and does it really matter?: Civic health, poverty, and inequality. Research Without Walls. Brown School of Social Work: Washington University in St. Louis.
+
+**Brown, C. T.**, Huff, J. L., & Helpenstill, K. (2020). “I wasn’t wantin’ to go in the streets”: A case study of trauma and identity in chronic homelessness. 2021 International Congress for Qualitative Inquiry.
+
+## Panel Discussant
+Social Protection for Low-Income Populations in East Asia. Association Public Policy Analysis & Management 2024.
+
+## Roundtables
+Neimanas, N., **Brown, C. T.**, Vidal, C. G., Forbes, R. (2026, Jan.). Advocacy in a policy void: Climate and environmental justice in a deregulated policy environment across governance levels. Society for Social Work Research, 2026.
+
+## Workshops
+**Brown, C. T.**, Martin, J., Pevitz, A., & Shapiro, R. (2021, June). Understanding students’ voting behaviors: How to assess political engagement moving forward. 2021 Civic Learning & Democratic Engagement Meeting.
+
+**Brown, C. T.**, Martin, J., Pevitz, A., & Shapiro, R. (2021, October). Assessing experiences of public safety as a catalyst for community engagement. 2021 Assessment Institute, Indiana University-Purdue University Indianapolis. https://iu.mediaspace.kaltura.com/media/t/1_hbdrrpjy.
+
+Pevitz, A., **Brown, C. T.**, Martin, J., & Shapiro, R. (2021, October). Measuring equity: An inside look at creating an instrument. 2021 Assessment Institute, Indiana University-Purdue University Indianapolis. https://iu.mediaspace.kaltura.com/media/t/1_cqhawkki.
+
+Shapiro, R., **Brown, C. T.** (2021, June). Not just for voters: Including ineligible voters in the creation of a civically engaged campus climate. 2021 Civic Learning & Democratic Engagement Meeting.
+
+Shapiro, R., **Brown, C. T.**, Martin, J., Pevitz, A., & (2021, October). Graduate student civic engagement: A case study in data, assessment, and evaluation as problem solving tools. 2021 Assessment Institute, Indiana University-Purdue University Indianapolis. https://iu.mediaspace.kaltura.com/media/t/1_ep1mo77u.
+
+## Webinars
+**Brown, C. T.** (2022). Can young social workers make a difference? 2022 Student Advocacy Day, Congressional Research Institute for Social Work and Policy.
+
+**Brown, C. T.** (2022). Can young social workers make a difference? 2022 Social Work Day on the Hill, Congressional Research Institute for Social Work and Policy.
+
+**Brown, C. T.**, Harris, J., Soto, J. M., Lozano, A., Jean-Louis, R., Cotlone, D., Wollen, S., & Edelman, M. (2021). Young social workers speak out on the future of democracy. 2021 Social Work Day on the Hill, Congressional Research Institute for Social Work and Policy.
+
+Soto, M., & **Brown, C. T.** (2021). Can social work save democracy? 2021 Student Advocacy Day, Congressional Research Institute for Social Work and Policy.
+
+Soto, M., & **Brown, C. T.** (2021). Can social work save democracy? 2021 Social Work Day on the Hill, Congressional Research Institute for Social Work and Policy.
+
+McClendon, G. & **Brown, C. T.** (2020). Local Leadership in Turbulent Times: How Ferguson Mayor Ella Jones and St. Louis County Prosecutor Wesley Bell Rose to the Challenge of Local Political Leadership.
+
 # Teaching
 ## Supervised Instruction
 ### University of California, Berkeley
+Fall, 2025: SOCWEL 112, Social Welfare Policy
+
 Spring, 2025: SOCWEL 112, Social Welfare Policy
 
 Spring, 2024: SOCWEL 282B, Seminar in Social Welfare Research
@@ -166,6 +281,24 @@ Spring, 2023: SOCWEL 116, Poverty and Economic Justice
 
 ## Independent Instruction
 ### University of California, Berkeley
+### Fall, 2025
+Python Fundamentals
+
+Python for Business Leaders
+
+### Spring, 2025
+R Fundamentals
+
+Python Machine Learning Fundamentals, UC Berkeley Master of Computational Social Science
+
+GPT Fundamentals, UC Berkeley Master of Computational Social Science
+
+Python Data Visualization
+
+Python Web API’s
+
+Python Web Scaping
+
 ### Fall, 2024
 Python Fundamentals
 
@@ -205,6 +338,8 @@ SWK 4510-01, Seminar, Field Liaison
 SWK 4520-01, Field Placement, Field Liaison
 
 ## Guest Lectures
+**Brown, C. T.** (2025, Mar.). Ecosocial policy and social work. Social Welfare Policy, School of Social Welfare, University of California, Berkeley.
+
 **Brown, C. T.** (2024, Feb.). Observational and quasi-experimental designs in program evaluation. Seminar in Social Welfare Research, School of Social Welfare, University of California, Berkeley.
 
 **Brown, C. T.** (2023, Nov.). Social Work, Environmental Justice, and Ecosocial Policy. Introduction to Social Welfare Policy, School of Social Welfare, University of California, Berkeley.
@@ -221,73 +356,12 @@ SWK 4520-01, Field Placement, Field Liaison
 
 **Brown, C. T.** (2020, Sep.). Advising Child Welfare Administrators. Transdisciplinary Problem Solving: Child Maltreatment Prevention. Brown School of Social Work, Washington University in St. Louis.
 
-# Presentations
-## Organized Panels
-Ben Brik, A., & **Brown, C. T.** (2025). Social inclusion in transition: A crossroads of conceptualization, measurement, and policy in global contexts. International Public Policy Association, 2025.
-
-## Oral Presentations
-**Brown, C. T.**, Nepomnyashcy, L., Patel, A. S. (2024, Nov.). Is the U.S. ecosocial safety net inequitable?: Comparing the Individuals and Households and National Flood Insurance programs. Association Public Policy Analysis & Management 2024.
-
-Chang, Y. L., Keh, M., **Brown, C. T.** (2024, Nov.). Analyzing racial disparities in welfare sanctions and employment outcomes: A study of welfare-to-work systems across California counties through the COVID-19 pandemic. Association Public Policy Analysis & Management 2024.
-
-Hetling, A., Chang, Y. L., Fox-Dichter, S., **Brown, C. T.**, Gassman-Pines, A., Nikolova, K., Rothwell, D. (2024, Nov). Did TANF policy changes during COVID-19 matter? An examination of TANF caseloads by race and ethnicity. Association Public Policy Analysis & Management 2024.
-
-**Brown, C. T.**, & Chang, Y. L. (2024, Oct.). Ecosocial policy and the social risks of climate change: Foundations of the U.S. ecosocial safety net. Global Welfare Regime Conference at National Taiwan University.
-
-Hetling, A., Chang, Y. L., Gassman-Pines, A., Nikolova, K., Rothwell, D., Fox-Dichter, S., **Brown, C. T.** (2024, May). Did TANF policy changes during COVID-19 matter? An examination of TANF caseloads by race and ethnicity. Research and Evaluation Conference on Self-Sufficiency.
-
-Chang, Y. L., **Brown, C. T.** (2024, Jan.). Uncovering racial disparities in local welfare-to-work program responses to the COVID-19 pandemic in California. Society for Social Work Research 2024.
-
-**Brown, C. T.**, & Chang, Y. L. (2023, Dec.). Ecosocial policy and the social risks of climate change: Foundations of the U.S. ecosocial safety net. Applying Sustainability Transition Research in Social Work Tackling Major Societal Challenge of Social Inclusion. University of Jyväskylä.
-
-Chang, Y. L., **Brown, C. T.** (2023, Nov.). Uncovering racial disparities in local welfare-to-work program responses to the COVID-19 pandemic in California. Association Public Policy Analysis & Management 2023.
-
-## Poster Presentations
-**Brown, C. T.**, Nepomnyashcy, L., Patel, A. S. (2025, Jan.). Is the U.S. ecosocial safety net inequitable?: Comparing the Individuals and Households and National Flood Insurance programs. Society for Social Work Research 2025.
-
-**Brown, C. T.** (2023, May). Sustainable Social Inclusion through Eco-social Policy: Bridging Transdisciplinary Approaches to Ecomodernism and Post-growth. Sustainability Science Days 2023. University of Helsinki.
-
-**Brown, C. T.** (2023, May). Natural Hazards as Temporal Opportunities for Policy Change: Reframing Disaster Recovery as a Time to Build Post-Growth Societies. Interdisciplinary Workshop on Environmental Justice and Time. University of Stirling.
-
-**Brown, C. T.** (2023, April). Social Work and the U.S. Eco-Social Safety Net: Opportunities to Advance Environmental Justice. Virtual Environmental Justice and Social Work Conference. Adelphi University, New York.
-
-**Brown, C. T.** (2023, Jan.). Understanding American Welfare State Retrenchment through the Lens of Public Opinion Toward Welfare Spending. Society for Social Work Research 2023. Session ID: 14107.
-
-**Brown, C. T.** (2020). Does automatic voter registration increase voter turnout?: Difference-in- differences. Research Without Walls. Brown School of Social Work: Washington University in St. Louis. 
-
-**Brown, C. T.** (2020). How healthy is our democracy and does it really matter?: Civic health, poverty, and inequality. Research Without Walls. Brown School of Social Work: Washington University in St. Louis.
-
-**Brown, C. T.**, Huff, J. L., & Helpenstill, K. (2020). “I wasn’t wantin’ to go in the streets”: A case study of trauma and identity in chronic homelessness. 2021 International Congress for Qualitative Inquiry.
-
-## Discussant
-Social Protection for Low-Income Populations in East Asia. Association Public Policy Analysis & Management 2024.
-
-## Workshops
-**Brown, C. T.**, Martin, J., Pevitz, A., & Shapiro, R. (2021, June). Understanding students’ voting behaviors: How to assess political engagement moving forward. 2021 Civic Learning & Democratic Engagement Meeting.
-
-**Brown, C. T.**, Martin, J., Pevitz, A., & Shapiro, R. (2021, October). Assessing experiences of public safety as a catalyst for community engagement. 2021 Assessment Institute, Indiana University-Purdue University Indianapolis. https://iu.mediaspace.kaltura.com/media/t/1_hbdrrpjy.
-
-Pevitz, A., **Brown, C. T.**, Martin, J., & Shapiro, R. (2021, October). Measuring equity: An inside look at creating an instrument. 2021 Assessment Institute, Indiana University-Purdue University Indianapolis. https://iu.mediaspace.kaltura.com/media/t/1_cqhawkki.
-
-Shapiro, R., **Brown, C. T.** (2021, June). Not just for voters: Including ineligible voters in the creation of a civically engaged campus climate. 2021 Civic Learning & Democratic Engagement Meeting.
-
-Shapiro, R., **Brown, C. T.**, Martin, J., Pevitz, A., & (2021, October). Graduate student civic engagement: A case study in data, assessment, and evaluation as problem solving tools. 2021 Assessment Institute, Indiana University-Purdue University Indianapolis. https://iu.mediaspace.kaltura.com/media/t/1_ep1mo77u.
-
-## Webinars
-**Brown, C. T.** (2022). Can young social workers make a difference? 2022 Student Advocacy Day, Congressional Research Institute for Social Work and Policy.
-
-**Brown, C. T.** (2022). Can young social workers make a difference? 2022 Social Work Day on the Hill, Congressional Research Institute for Social Work and Policy.
-
-**Brown, C. T.**, Harris, J., Soto, J. M., Lozano, A., Jean-Louis, R., Cotlone, D., Wollen, S., & Edelman, M. (2021). Young social workers speak out on the future of democracy. 2021 Social Work Day on the Hill, Congressional Research Institute for Social Work and Policy.
-
-Soto, M., & **Brown, C. T.** (2021). Can social work save democracy? 2021 Student Advocacy Day, Congressional Research Institute for Social Work and Policy.
-
-Soto, M., & **Brown, C. T.** (2021). Can social work save democracy? 2021 Social Work Day on the Hill, Congressional Research Institute for Social Work and Policy.
-
-McClendon, G. & **Brown, C. T.** (2020). Local Leadership in Turbulent Times: How Ferguson Mayor Ella Jones and St. Louis County Prosecutor Wesley Bell Rose to the Challenge of Local Political Leadership.
-
 # Practice Experience
 ## Professional Experience
+Ecosocial Collective
+* Founder & Executive Director
+* 2025 - Present
+
 CTC Technology & Energy
 * Senior Policy Analyst
 * 2021 - 2022
