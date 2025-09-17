@@ -12,6 +12,8 @@ markdown: kramdown
 kramdown:
   input: GFM
   parse_block_html: true
+toc_label: "On this page"
+toc_icon: "list-ul"
 ---
 
 <style>
