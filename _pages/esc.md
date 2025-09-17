@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Ecosocial Collective"
-permalink: /ecosocial-collective/
+permalink: /esc/
 description: "Building a pipeline from grassroots climate education and organizing to concrete policy planning and implementation."
 author_profile: true
 classes: wide

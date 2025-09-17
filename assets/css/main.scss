@@ -10,13 +10,32 @@
  *
 */
 
-@charset "utf-8";
+@import "vendor/breakpoint/breakpoint"; // media query mixins
+@import "variables";
+@import "mixins";
+@import "vendor/susy/susy";
 
-/* 1) load the skin chosen in _config.yml */
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "reset";
+@import "base";
 
-/* 2) load the theme */
-@import "minimal-mistakes";
+@import "utilities";
+@import "animations";
+@import "tables";
+@import "buttons";
+@import "notices";
+@import "masthead";
+@import "navigation";
+@import "footer";
+@import "syntax";
 
-/* 3) (optional) your overrides last */
-@import "custom";
+@import "forms";
+
+@import "page";
+@import "archive";
+@import "sidebar";
+
+@import "vendor/font-awesome/fontawesome";
+@import "vendor/font-awesome/solid";
+@import "vendor/font-awesome/brands";
+@import "vendor/magnific-popup/magnific-popup";
+@import "print";
