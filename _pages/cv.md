@@ -78,7 +78,12 @@ Hamilton, G., & **Brown, C. T.** (in press). What is environmental justice? In V
 
 White, R., **Brown, C. T.**, Pevits, A., & Martin, J. (2023). Contextualization of transformative civic education. In Hoggan-Kloubert, T., Mabrey III, P. E., & Hoggan, C. (eds.). Transformative Civic Education in Democratic Societies. Michigan State University Press: East Lansing, Michigan.
 
+</div>
+
 #### Policy Briefs
+
+<div class="hanging-indent" markdown="1">
+
 Chang, Y. L., & **Brown, C. T.**, Keh, M. (2025). Geographic and racial disparities in employment, earnings, sanctions, and reentries in CalWORKs amid the COVID-19 pandemic.
 
 Bandaru, S., **Brown, C. T.**, Goldstein, E., Serwin, A., & Taylor P. (2021). CLT Policy Playbook. Center for Social Development.
