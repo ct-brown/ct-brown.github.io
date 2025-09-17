@@ -1,0 +1,46 @@
+/* Global dark override (no SCSS needed) */
+:root { color-scheme: dark; }
+
+/* Base */
+html, body { background:#000; color:#fff; }
+a { color:#9cd3ff; }
+a:hover, a:focus { color:#cfe6ff; }
+
+/* Headings & text */
+h1, h2, h3, h4, h5, h6 { color:#fff; }
+hr { border-color:#222; }
+
+/* Nav, masthead, footer */
+.greedy-nav { background:#000; }
+.greedy-nav a, .masthead a, .site-title { color:#fff !important; }
+.page__footer { background:#000; color:#d0d0d0; border-top:1px solid #222; }
+
+/* Page + sidebar */
+.page, .page__inner-wrap, .sidebar, .sidebar__right, .page__hero { background:#000; color:#fff; }
+.page__content { color:#fff; }
+.page__content p, .page__content li { color:#fff; }
+
+/* Buttons */
+.btn, .btn--primary, .btn--inverse { 
+  background:#111; color:#fff; border:1px solid #333;
+}
+.btn:hover { background:#1a1a1a; }
+
+/* Code blocks */
+pre, code, kbd, samp { background:#0d0d0d; color:#e6e6e6; }
+pre { border:1px solid #222; }
+
+/* Tables */
+table { border-color:#222; }
+thead th { background:#0d0d0d; color:#fff; }
+tbody td { background:#0b0b0b; color:#fff; border-color:#222; }
+
+/* Notices/cards (Minimal Mistakes bits) */
+.notice, .archive__item { background:transparent; color:#fff; border-color:#222; }
+
+/* Forms */
+input, select, textarea { background:#0d0d0d; color:#fff; border:1px solid #333; }
+input::placeholder, textarea::placeholder { color:#aaa; }
+
+/* Images keep normal colors (no inversion) */
+img, video { filter:none !important; }
