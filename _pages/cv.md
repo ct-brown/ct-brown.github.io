@@ -115,7 +115,7 @@ Chang, Y. L., **Brown, C. T.**, & Keh, M. (2025). CalWORKs WTW Racial Equity Das
 
 <div class="hanging-indent" markdown="1">
 
-**Brown, C. T.** (under review). Contradictions of the ecowelfare state: The state, the human, and nature.
+**Brown, C. T.** (R&R). Contradictions of the ecowelfare state: The state, the human, and nature.
 
 **Brown, C. T.** (under review). Growth, degrowth, and regrowth: The dialectic of adaptation and ecowelfare.
 
@@ -254,6 +254,8 @@ Chang, Y. L., **Brown, C. T.** (2026, Jan.). Investigating the welfare-to-work r
 Chang, Y. L., **Brown, C. T.** (2025, Nov.). Investigating the welfare-to-work requirements and sanction-lifted policies following the COVID-19 pandemic through an equity lens. Association Public Policy Analysis & Management 2025
 
 **Brown, C. T.**, (2025, Oct.). When helping hurts: Growth, adaptation, and a critique of ecowelfare. Extreme Weather Events, Climate Adaptation and Eco-social Policies Colloquium, Sustainable Welfare & Eco-social Policy Network.
+
+Chang, Y. L., & **Brown, C. T.** (2025, Oct.). Leveraging Cal-OAR data insights to improve employment and earnings for Welfare-to-Work participants with an equity lens. County Welfare Directors Association of California Annual Conference.
 
 **Brown, C. T.** (2025, June). Climate risk and the welfare state: Exploring the moderation of climate-adaptive welfare and ecowelfare on U.S. welfare enrollment after natural hazards. Sustainable Social Policy Workshop, London School of Economics.
 
