@@ -89,9 +89,11 @@ Bandaru, S., **Brown, C. T.**, Goldstein, E., Serwin, A., & Taylor P. (2021). CL
 
 </div>
 
-### Op-Eds
+### Journalistic
 
 <div class="hanging-indent" markdown="1">
+
+**Brown, C. T.** (in press). Banners across the West Coast call out Chevron’s ties to genocide and climate change. California Red, California Democratic Socialists of America
 
 **Brown, C. T.**, Chang, Y. L. (2024, Oct.) Ecosocial policy and the social risks of climate change: Foundations of the U.S. ecosocial safety net. The Social Policy Blog. https://socialpolicyblog.com/2024/10/24/ecosocial-policy-and-the-social-risks-of-climate-change-foundations-of-the-u-s-ecosocial-safety-net/.
 
