@@ -83,6 +83,8 @@ White, R., **Brown, C. T.**, Pevits, A., & Martin, J. (2023). Contextualization 
 
 <div class="hanging-indent" markdown="1">
 
+Davidson, T., **Brown, C. T.**, Rathbun, H., Jerolleman, A., Awbrey, M., Guerke, M., Leahy, C., Feliscar, L., Logan, A., Patton, N., & Ferreira, R. (2025). Practitioner perspectives on disaster assistance reform: A roadmap of obstacles to avoid. Full report—Part I of III. Consortium for Emergent Disaster Resilience. https://cedrhub.org/publications/.
+
 Chang, Y. L., & **Brown, C. T.**, Keh, M. (2025). Geographic and racial disparities in employment, earnings, sanctions, and reentries in CalWORKs amid the COVID-19 pandemic.
 
 Bandaru, S., **Brown, C. T.**, Goldstein, E., Serwin, A., & Taylor P. (2021). CLT Policy Playbook. Center for Social Development.
