@@ -69,9 +69,9 @@ Miller, S., Roll, S., **Brown, C. T.**, Brugger, L., & Grinstein-Weiss, M. (2024
 
 <div class="hanging-indent" markdown="1">
 
-Perone, A., **Brown, C. T.**, Fletcher, K., Urrutia, L. (in press). The five C’s of climate change and caregiving: Moving from catastrophe to cohesive caregiving for older adults. In Pilemer, K & Ayalon, L. (eds.) Aging and climate change. Bristol: Policy Press.
+Perone, A., **Brown, C. T.**, Fletcher, K., Urrutia, L. (2025). The five C’s of climate change and caregiving: Moving from catastrophe to cohesive caregiving for older adults. In Pilemer, K & Ayalon, L. (eds.) Aging and climate change. Bristol: Policy Press.
 
-Hamilton, G., & **Brown, C. T.** (in press). What is environmental justice? In Vandergrift, K. Social Justice. Solana Beach: Cognella.
+Hamilton, G., & **Brown, C. T.** (2025). What is environmental justice? In Rogerson, C., & Vandergrift, K. F. (eds.). Introduction to social justice. Solana Beach: Cognella.
 
 **Brown, C. T.**, White, R., Pevits, A., Martin, J. (2023). Civic education and social justice: Moving toward a pedagogy of community organizing and community-based participatory methods. In Hoggan-Kloubert, T., Mabrey III, P. E., & Hoggan, C. (eds.). Transformative Civic Education in Democratic Societies. Michigan State University Press: East Lansing, Michigan.
 
