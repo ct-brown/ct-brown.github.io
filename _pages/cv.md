@@ -35,6 +35,8 @@ kramdown:
 
 <div class="hanging-indent" markdown="1">
 
+**Brown, C. T.** (in press). Contradictions of the ecowelfare state: The state, the human, and nature. Capitalism Nature Socialism.
+
 **Brown, C. T.** (2025). Ecosocial adaptation and the care professions: A systems-ecological approach to climate risk. Social Work in Public Health, 1-15. https://doi.org/10.1080/19371918.2025.2554664.
 
 **Brown, C. T.** (in press). Ecosocial policy. In Aspalter, C. (ed.), Elgar Research Encyclopedia of Social Policy. Edward Elgar.
@@ -69,6 +71,8 @@ Miller, S., Roll, S., **Brown, C. T.**, Brugger, L., & Grinstein-Weiss, M. (2024
 
 <div class="hanging-indent" markdown="1">
 
+Chang, Y. L., & **Brown, C. T.** (in press). United States: An evolving liberal welfare state—deepening workfare and fragmentation. In Wang J. S.-H. & Marx, I. (eds.), Worlds of Welfare: Comparing Safety Nets Across the Globe, Cheltenham: Edward Elgar Publishing.
+
 Perone, A., **Brown, C. T.**, Fletcher, K., Urrutia, L. (2025). The five C’s of climate change and caregiving: Moving from catastrophe to cohesive caregiving for older adults. In Pilemer, K & Ayalon, L. (eds.) Aging and climate change. Bristol: Policy Press.
 
 Hamilton, G., & **Brown, C. T.** (2025). What is environmental justice? In Rogerson, C., & Vandergrift, K. F. (eds.). Introduction to social justice. Solana Beach: Cognella.
@@ -85,7 +89,7 @@ White, R., **Brown, C. T.**, Pevits, A., & Martin, J. (2023). Contextualization 
 
 Davidson, T., **Brown, C. T.**, Rathbun, H., Jerolleman, A., Awbrey, M., Guerke, M., Leahy, C., Feliscar, L., Logan, A., Patton, N., & Ferreira, R. (2025). Practitioner perspectives on disaster assistance reform: A roadmap of obstacles to avoid. Full report—Part I of III. Consortium for Emergent Disaster Resilience. https://cedrhub.org/publications/.
 
-Chang, Y. L., & **Brown, C. T.**, Keh, M. (2025). Geographic and racial disparities in employment, earnings, sanctions, and reentries in CalWORKs amid the COVID-19 pandemic.
+Chang, Y. L., & **Brown, C. T.**, Keh, M. (2025). Geographic and racial disparities in employment, earnings, sanctions, and reentries in CalWORKs amid the COVID-19 pandemic. https://escholarship.org/content/qt9z39r8kv/qt9z39r8kv.pdf.
 
 Bandaru, S., **Brown, C. T.**, Goldstein, E., Serwin, A., & Taylor P. (2021). CLT Policy Playbook. Center for Social Development.
 
@@ -95,7 +99,7 @@ Bandaru, S., **Brown, C. T.**, Goldstein, E., Serwin, A., & Taylor P. (2021). CL
 
 <div class="hanging-indent" markdown="1">
 
-**Brown, C. T.** (in press). Banners across the West Coast call out Chevron’s ties to genocide and climate change. California Red, California Democratic Socialists of America
+**Brown, C. T.** (2025, Sep.). Banners across the West Coast call out Chevron’s ties to genocide and climate change. California Red, California Democratic Socialists of America. https://www.californiadsa.org/news/boycottchevron2025sep.
 
 **Brown, C. T.**, Chang, Y. L. (2024, Oct.) Ecosocial policy and the social risks of climate change: Foundations of the U.S. ecosocial safety net. The Social Policy Blog. https://socialpolicyblog.com/2024/10/24/ecosocial-policy-and-the-social-risks-of-climate-change-foundations-of-the-u-s-ecosocial-safety-net/.
 
@@ -119,13 +123,11 @@ Chang, Y. L., **Brown, C. T.**, & Keh, M. (2025). CalWORKs WTW Racial Equity Das
 
 <div class="hanging-indent" markdown="1">
 
-**Brown, C. T.** (R&R). Contradictions of the ecowelfare state: The state, the human, and nature.
+**Brown, C. T.**, Dolsak, N., & Prakash, A. (under review). Does mitigation delay planning for adaptation? A panel analysis, 1995-2020.
 
-**Brown, C. T.** (under review). Growth, degrowth, and regrowth: The dialectic of adaptation and ecowelfare.
+**Brown, C. T.** & Chang, Y. L. (under review). Hotspots of inequity: Space-time and machine learning of U.S. ecowelfare.
 
 **Brown, C. T.**, Nepomnyashcy, L., Patel, A. S. (under review). Is the U.S. ecosocial safety net inequitable?: Comparing the Individuals and Households and National Flood Insurance programs.
-
-**Brown, C. T.** (under review). Adapting the safety net: The role of climate-adapted and ecowelfare amid climate change.
 
 **Brown, C. T.** (under review). Social inclusion as ecosocial adaptation: The role of inclusion and welfare regimes in adaptation readiness and climate vulnerability in the Global North and South.
 
@@ -137,13 +139,13 @@ Hetling, A., Chang, Y. L., Fox-Dichter, S., **Brown, C. T.**, Gassman-Pines, A.,
 
 <div class="hanging-indent" markdown="1">
 
+**Brown, C. T.** (working). Growth, degrowth, and regrowth: The dialectic of adaptation and ecowelfare.
+
+**Brown, C. T.** (working). Adapting the safety net: The role of climate-adapted and ecowelfare amid climate change.
+
 **Brown, C. T.** (working). Technocare: A critical theory of technology and care.
 
 **Brown, C. T.**, Wang, J., & Chang, Y.-L. (working). Comparative energy and utility assistance and the welfare state.
-
-**Brown, C. T.** & Chang, Y. L. (working). Hotspots of inequity: Space-time and machine learning of U.S. ecowelfare.
-
-**Brown, C. T.**, Dolsak, N., & Prakash, A. (working). Does mitigation delay planning for adaptation? A panel analysis, 1995-2020.
 
 **Brown, C. T.**, Dolsak, N., & Prakash, A. (working). Inequality and climate change.
 
@@ -252,6 +254,8 @@ Ben Brik, A., & **Brown, C. T.** (2025). Social inclusion in transition: A cross
 Grounder, B., **Brown, C. T.** (2026, Jan.). Climate policy (in)equity: Investigating private incentives under the Inflation Reduction Act for investments in marginalized communities. Society for Social Work Research, 2026.
 
 Chang, Y. L., **Brown, C. T.** (2026, Jan.). Investigating the welfare-to-work requirements and sanction-lifted policies following the COVID-19 pandemic through an equity lens. Society for Social Work Research, 2026.
+
+Davidson, T., Ferreira, R., Leahy, C., Rathbun, H., Lyttle, M., **Brown, C. T.**, & Buttell, F. (2026, Jan.). Understanding barriers to equitable disaster recovery: A concept mapping study. Society for Social Work Research, 2026
 
 **Brown, C. T.** (2025, Nov.). Climate risk and the welfare state: Exploring the moderation of climate-adaptive welfare and ecowelfare on U.S. welfare enrollment after natural hazards. Association Public Policy Analysis & Management 2025.
 
@@ -366,10 +370,19 @@ McClendon, G. & **Brown, C. T.** (2020). Local Leadership in Turbulent Times: Ho
 - Spring, 2023: SOCWEL 116, Poverty and Economic Justice
 
 ### Independent Instruction
+### Disaster Resilience Leadership Academy, Tulane University
+### Spring 2025
+- DRLS 6110, Program Evaluation
+
 ### University of California, Berkeley
+### Spring, 2025
+- SOCWEL 110, Social Work as a Profession
+
 ### Fall, 2025
 - Python Fundamentals
-- Python for Business Leaders, UC Berkeley Haas Master of Business Administration
+- Python for Business Leaders
+- Python for Environmental Economists
+- R for Public Health
 
 ### Spring, 2025
 - R Fundamentals
@@ -435,7 +448,7 @@ McClendon, G. & **Brown, C. T.** (2020). Local Leadership in Turbulent Times: Ho
 
 ## Practice Experience
 ### Professional Experience
-Ecosocial Collective
+Center for Ecosocial POlicy
 * Founder & Executive Director
 * 2025 - Present
 
@@ -509,6 +522,7 @@ Arkansas Division of Children and Family Services
 
 ## Ad-hoc Editorial & Scientific Review
 - Journal of the Sociology of Race and Ethnicity
+- Social Psychiatry and Psychiatric Epidemiology
 - Psychological Trauma: Theory, Research, Practice, and Policy
 - Stat
 
