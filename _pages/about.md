@@ -14,3 +14,5 @@ I study ecosocial policy and the ecowelfare state: how climate risk reshapes wel
 When I’m not writing or teaching, I’m with my spouse, friends, and our Labrador, Indigo. I grew up near Paragould, Arkansas, and I love rock climbing, pottery, painting, poetry, travel, and exploring new wines and teas.
 
 See my CV, current projects, and notes on this site. Get in touch--I’d love to connect.
+
+[Join My Office Hours](https://calendar.app.google/7LMG1zYKMPy5AQXY6){: .btn .btn--primary }
