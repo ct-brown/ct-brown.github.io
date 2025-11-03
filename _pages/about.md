@@ -15,4 +15,4 @@ When I’m not writing or teaching, I’m with my spouse, friends, and our Labra
 
 See my CV, current projects, and notes on this site. Get in touch--I’d love to connect.
 
-[Join My Office Hours](https://calendar.app.google/7LMG1zYKMPy5AQXY6){: .btn .btn--primary }
+[Schedule Office Hours](https://calendar.app.google/7LMG1zYKMPy5AQXY6){: .btn .btn--primary }
