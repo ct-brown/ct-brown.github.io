@@ -2,17 +2,19 @@
 layout: single
 title: "Research"
 permalink: /research/
-author_profile: true
+author_profile: false
 classes: wide
 ---
 
-My research examines how climate risk reshapes social protection systems and how adaptation policy can either reproduce or challenge growth-dependent economies. I work at the intersection of social welfare, critical theory, and climate policy, using mixed methods to understand global patterns of ecosocial governance.
+I study how climate risk is reorganizing social protection—and how adaptation governance can either reproduce growth-dependent political economies or open space for ecosocial alternatives. My work bridges social welfare, critical theory, and climate policy using mixed methods to map institutions, outcomes, and ideas across the Global North and South.
+
+---
 
 ## Dissertation: When Helping Hurts
 
-My dissertation develops the concept of **ecowelfare**—the integration of climate adaptation within welfare state institutions. I argue that crisis governance often cycles repair back into markets through what I call **growth-as-adaptation**: temporary decommodification of labor and land during disasters, followed by recommodification in recovery.
+My dissertation develops the concept of **ecowelfare**—the integration of climate adaptation within welfare-state institutions. I argue that crisis governance often cycles repair back into markets through **growth-as-adaptation**: temporary decommodification of labor and land during disasters, followed by recommodification in recovery. Empirically, I trace how this dynamic operates across U.S. disaster programs and in the global architecture of adaptation planning.
 
-[Read more about the dissertation →](/dissertation/)
+[Read more →](/dissertation/){: .btn .btn--primary}
 
 ---
 
@@ -20,73 +22,84 @@ My dissertation develops the concept of **ecowelfare**—the integration of clim
 
 ### 1. Ecowelfare States & Climate Adaptation
 
-How do nations integrate climate adaptation with social protection? I'm developing a global typology of ecowelfare states using SDG-based indicators of ecodecommodification and analyzing the institutional structures that shape adaptation politics.
+**Guiding question:** How do states integrate climate adaptation with social protection?
 
-**Key Projects:**
-- Global ecowelfare state typology (62 countries)
-- Comparative analysis of national adaptation plans (209 countries)
-- Climate risk and welfare state transformation
+I build comparative frameworks for identifying ecowelfare institutions and their distributional logics, including cross-national typologies and analyses of how welfare capacity shapes climate governance.
 
-**Methods:** Model-based clustering, computational text analysis, comparative political economy
+**Key projects:**
+- Global ecowelfare typology (cross-national indicators of eco(de/re)commodification)
+- Comparative analysis of National Adaptation Plans (NAP corpus)
+- Climate risk and welfare-state transformation
 
-### 2. Climate Disasters & Economic Growth
+**Methods/data:** Model-based clustering; comparative political economy; indicator construction; text-as-data
 
-How do welfare systems moderate growth imperatives after climate disasters? Using causal inference methods, I examine how social protection shapes economic recovery trajectories following major hurricanes in the United States.
+---
 
-**Key Projects:**
-- Generalized synthetic control analysis of welfare effects post-disaster
-- Growth-as-adaptation in hurricane recovery
+### 2. Disasters, Recovery, and the Political Economy of Growth
+
+**Guiding question:** What does the welfare state do to growth imperatives after disasters?
+
+Using U.S. disasters as a strategic case, I examine how relief and recovery policies shape economic trajectories—and how decommodification during crisis is often reversed during rebuilding.
+
+**Key projects:**
+- Welfare and recovery trajectories after major hurricanes (causal inference)
+- Growth-as-adaptation in disaster recovery
 - Disaster capitalism and social policy
 
-**Methods:** Difference-in-differences, synthetic control, econometric modeling
+**Methods/data:** DiD; generalized synthetic control; panel econometrics; administrative data
 
-### 3. Climate Ideology & Policy Discourse
+---
 
-What ideologies shape national climate adaptation strategies? I use computational methods to analyze how states frame adaptation in official policy documents, revealing underlying assumptions about growth, development, and social protection.
+### 3. Adaptation Governance, Ideas, and Policy Discourse
 
-**Key Projects:**
-- Symptomatic reading of 209 National Adaptation Plans
-- Discourse analysis of climate adaptation frameworks
+**Guiding question:** What ideologies organize adaptation policy "common sense"?
+
+I analyze how states narrate adaptation—what gets centered (resilience, markets, infrastructure) and what gets displaced (care, redistribution, enforceable protection)—and how those frames shape policy design.
+
+**Key projects:**
+- Symptomatic reading of the NAP corpus
 - Political economy of adaptation planning
+- Mitigation–adaptation sequencing and institutional path dependence
 
-**Methods:** Natural language processing, topic modeling, critical discourse analysis
-
-### 4. Ecosocial Policy & Practice
-
-How can communities build adaptation systems that meet needs without defaulting to growth-as-repair? Through the Center for Ecosocial Policy, I work to translate research into practical frameworks for just climate adaptation.
-
-**Key Projects:**
-- Center for Ecosocial Policy development
-- Community climate education and organizing
-- Ecosocial policy implementation frameworks
-
-**Approach:** Participatory action research, policy co-design, community organizing
+**Methods/data:** NLP; topic modeling; computational discourse analysis; critical policy analysis
 
 ---
 
-## Theoretical Contributions
+### 4. Ecosocial Policy, Practice, and Translation
 
-My work bridges multiple theoretical traditions:
+**Guiding question:** How can adaptation meet needs without defaulting to growth-as-repair?
 
-- **Critical Political Economy**: Analyzing how climate adaptation reproduces or challenges capitalist growth imperatives
-- **Social Reproduction Theory**: Understanding care, labor, and social protection in climate contexts
-- **Degrowth & Post-Growth**: Exploring alternatives to growth-as-adaptation
-- **Environmental Justice**: Centering equity and power in adaptation governance
-- **Welfare State Theory**: Extending decommodification concepts to ecological systems
+Through applied and collaborative work, I translate ecosocial concepts into practical frameworks for just adaptation, emphasizing redistribution, care, and institutional design.
 
----
+**Key projects:**
+- Center for Ecosocial Policy (tools, briefs, convenings)
+- Community climate education/organizing collaborations
+- Ecosocial implementation frameworks for agencies and NGOs
 
-## Collaborations & Networks
+**Approach/methods:** Participatory action research; policy co-design; practitioner-facing synthesis
 
-I welcome collaboration on projects related to:
-- Climate adaptation and social policy
-- Ecowelfare state comparative research
-- Post-growth economic alternatives
-- Environmental justice and social protection
-- Community-based adaptation planning
-
-**Get in touch:** [ct.brown@berkeley.edu](mailto:ct.brown@berkeley.edu)
+[Practice-facing work →](/esc/){: .btn .btn--primary}
 
 ---
 
-[View Publications](/publications/) | [View CV](/cv/) | [Schedule Office Hours](https://calendar.app.google/7LMG1zYKMPy5AQXY6)
+### 5. Critical Theory of Ecowelfare and the Adaptation State
+
+**Guiding question:** What kind of state is being built through adaptation—and what contradictions does it manage?
+
+I develop a critical theory of the eco-welfare state and adaptation governance, drawing on critical state theory, eco-Marxism, and social reproduction to explain how legitimacy, accumulation, and care are reorganized under climate risk.
+
+**Key projects/concepts:**
+- Ecowelfare; ecosocial safety net
+- Eco(de/re)commodification and the welfare/ecology nexus
+- Adaptation imaginary; growth-centered resilience
+- Technocare and the apparatus of climate governance
+
+**Primary traditions:** Critical political economy; Frankfurt School/state theory; social reproduction; post-/degrowth; environmental justice
+
+---
+
+## Collaboration
+
+I welcome collaborations on ecowelfare institutions, adaptation governance, disaster recovery political economy, and post-growth ecosocial policy design.
+
+**Contact:** [ct.brown@berkeley.edu](mailto:ct.brown@berkeley.edu)
