@@ -28,7 +28,8 @@ author:
   location         : "Berkeley, CA"
   employer         : "UC Berkeley"
   uri              : # URL
-  email            : "ct.brown@berkeley.edu" 
+  email            : "ct.brown@berkeley.edu"
+  office_hours     : "https://calendar.app.google/s8BwpJfhzXGm1zTW9"
 
   # Academic websites
   arxiv            : # URL

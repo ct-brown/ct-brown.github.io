@@ -3,7 +3,7 @@ layout: single
 title: "Center for Ecosocial Policy"
 permalink: /esc/
 description: "Building a pipeline from grassroots climate education and organizing to concrete policy planning and implementation."
-author_profile: true
+author_profile: false
 classes: wide
 header:
   overlay_color: "#2d5016"
