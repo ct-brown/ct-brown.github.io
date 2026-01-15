@@ -5,12 +5,24 @@
 # prevent it from being included in the site.
 
 main:
-    
+
+  - title: "Research"
+    url: /research/
+
   - title: "Dissertation"
     url: /dissertation/
 
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Talks"
+    url: /talks/
+
   - title: "Center for Ecosocial Policy"
     url: /esc/
-    
+
   - title: "CV"
     url: /cv/
