@@ -6,11 +6,11 @@
 
 main:
 
+  - title: "About"
+    url: /
+
   - title: "Research"
     url: /research/
-
-  - title: "Dissertation"
-    url: /dissertation/
 
   - title: "Publications"
     url: /publications/
@@ -21,8 +21,8 @@ main:
   - title: "Talks"
     url: /talks/
 
-  - title: "Center for Ecosocial Policy"
-    url: /esc/
-
   - title: "CV"
     url: /cv/
+
+  - title: "Center for Ecosocial Policy"
+    url: /esc/

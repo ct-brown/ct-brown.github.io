@@ -4,6 +4,9 @@ title: "Research"
 permalink: /research/
 author_profile: false
 classes: wide
+toc: true
+toc_label: "Research Streams"
+toc_sticky: true
 ---
 
 I study how climate risk is reorganizing social protection—and how adaptation governance can either reproduce growth-dependent political economies or open space for ecosocial alternatives. My work bridges social welfare, critical theory, and climate policy using mixed methods to map institutions, outcomes, and ideas across the Global North and South.

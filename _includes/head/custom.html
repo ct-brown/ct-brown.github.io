@@ -95,6 +95,143 @@
     background-color: #f5f3ed;
     border: 1px solid #e8e6df;
   }
+
+  /* Reusable content boxes and cards */
+  .callout-box {
+    background-color: #f0f4ed;
+    padding: 2em;
+    margin-bottom: 2em;
+    border-left: 4px solid #4a7c59;
+    border-radius: 4px;
+  }
+
+  .callout-box p {
+    font-size: 1.15em;
+    margin: 0;
+    line-height: 1.6;
+  }
+
+  .org-card-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 2em;
+    margin: 2em 0;
+  }
+
+  .org-card {
+    padding: 2em;
+    border-radius: 10px;
+    box-shadow: 0 3px 12px rgba(0, 0, 0, 0.08);
+  }
+
+  .org-card.blue {
+    background: linear-gradient(135deg, #e8f4f8 0%, #f0f8fa 100%);
+  }
+
+  .org-card.earth {
+    background: linear-gradient(135deg, #f0ede8 0%, #f5f3ed 100%);
+  }
+
+  .org-card h3 {
+    margin-top: 0;
+    font-size: 1.3em;
+  }
+
+  .org-card .type-label {
+    font-size: 0.9em;
+    color: #888;
+    margin-bottom: 1.2em;
+    font-weight: 600;
+  }
+
+  .org-card.blue h3 {
+    color: #1e5f7a;
+  }
+
+  .org-card.earth h3 {
+    color: #7a5f1e;
+  }
+
+  .principles-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1.5em;
+    margin: 1.5em 0;
+  }
+
+  .principle-card {
+    padding: 1.2em;
+    background-color: #f5f3ed;
+    border-left: 4px solid #4a7c59;
+    border-radius: 4px;
+  }
+
+  .principle-card strong {
+    color: #4a7c59;
+  }
+
+  .principle-card.integration {
+    border-left-color: #4a7c59;
+  }
+
+  .principle-card.integration strong {
+    color: #4a7c59;
+  }
+
+  .principle-card.equity {
+    border-left-color: #5b8a9f;
+  }
+
+  .principle-card.equity strong {
+    color: #5b8a9f;
+  }
+
+  .principle-card.accountability {
+    border-left-color: #d4a574;
+  }
+
+  .principle-card.accountability strong {
+    color: #d4a574;
+  }
+
+  .principle-card.participation {
+    border-left-color: #6b9e78;
+  }
+
+  .principle-card.participation strong {
+    color: #6b9e78;
+  }
+
+  .principle-card.sustainability {
+    border-left-color: #c55a47;
+  }
+
+  .principle-card.sustainability strong {
+    color: #c55a47;
+  }
+
+  .pipeline-text {
+    font-family: 'Courier New', monospace;
+    font-size: 0.95em;
+    color: #2d5016;
+    text-align: center;
+    margin: 1.5em 0;
+  }
+
+  .final-callout {
+    background: linear-gradient(135deg, #f5f3ed 0%, #f0f4ed 100%);
+    padding: 2em;
+    margin: 2em 0;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+    text-align: center;
+  }
+
+  .final-callout p {
+    font-size: 1.1em;
+    margin: 0;
+    color: #2d3436;
+  }
 </style>
 
 <!-- end custom head snippets -->
