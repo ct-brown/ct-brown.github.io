@@ -4,13 +4,16 @@ title: "When Helping Hurts: <br> Growth, Adaptation, and a Critique of Ecowelfar
 permalink: /dissertation/
 author_profile: false
 classes: wide
+toc: true
+toc_label: "Dissertation Overview"
+toc_sticky: true
 header:
   overlay_color: "#3d2817"
   overlay_filter: "0.5"
 ---
 
-<div style="background-color: #faf8f5; padding: 2em; margin-bottom: 2em; border-left: 4px solid #8b6f47;">
-<p style="font-size: 1.1em; margin: 0;"><em>When Helping Hurts</em> argues that modern welfare systems don't just manage social risk—they also function as climate adaptation infrastructure ("ecowelfare"), and under crisis governance they often cycle repair back into markets through <strong>growth-as-adaptation</strong>: temporary eco(de)commodification during disaster, followed by recommodification in recovery.</p>
+<div class="callout-box">
+<p><em>When Helping Hurts</em> argues that modern welfare systems don't just manage social risk—they also function as climate adaptation infrastructure ("ecowelfare"), and under crisis governance they often cycle repair back into markets through <strong>growth-as-adaptation</strong>: temporary eco(de)commodification during disaster, followed by recommodification in recovery.</p>
 </div>
 
 ## Core Claim
@@ -73,7 +76,7 @@ PhD in Social Welfare (UC Berkeley), dissertation in progress; expected completi
 
 ## Contact
 
-<div style="background-color: #f0f4ed; padding: 1.5em; margin-top: 2em; border-radius: 8px;">
+<div class="callout-box">
 <p style="margin: 0;">Interested in collaboration, talks, or related projects on ecowelfare, climate adaptation, and post-growth social policy?</p>
 <p style="margin: 1em 0 0 0;">📧 <a href="mailto:ct.brown@berkeley.edu">ct.brown@berkeley.edu</a></p>
 </div>
