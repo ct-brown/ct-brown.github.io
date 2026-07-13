@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 toc: true
 toc_sticky: true
-last_modified_at: 2026-01-15
+last_modified_at: 2026-07-13
 redirect_from:
   - /resume
 markdown: kramdown
@@ -49,6 +49,12 @@ Econometrics, Causal Inference, Computational Social Science, Critical Theory & 
 
 <div class="hanging-indent" markdown="1">
 
+Hetling, A., Chang, Y. L., Fox-Dichter, S., **Brown, C. T.**, Gassman-Pines, A., Rothwell, D., & Nikolova, K. (in press). A racial equity analysis of state TANF caseload trends: Examining the impact of the COVID-19 pandemic. Population Research and Policy Review.
+
+**Brown, C. T.** (2026). Social inclusion, welfare states, and ecosocial adaptation: A global analysis. Journal of International and Comparative Social Policy, First View, 1–20. https://doi.org/10.1017/ics.2026.10090.
+
+**Brown, C. T.**, & Chang, Y. L. (2026). Ecosocial policy and the social risks of climate change: Foundations of the U.S. ecosocial safety net. Journal of Social Policy, 55(2), 522–541. https://doi.org/10.1017/S0047279424000126.
+
 **Brown, C. T.** & Chang, Y. L. (2025). Hotspots of inequity in climate adaptation: Explaining the stratification of U.S. ecowelfare using space-time and machine learning analysis. Climate, 13(12), 244. https://doi.org/10.3390/cli13120244.
 
 **Brown, C. T.** (2025). Contradictions of the ecowelfare state: The state, the human, and nature. Capitalism Nature Socialism. https://doi.org/10.1080/10455752.2025.2587871.
@@ -61,15 +67,13 @@ Brik, A. B., & **Brown, C. T.** (2025). A critical review of conceptualization a
 
 Ben Brik, A., & **Brown, C. T.** (2025). Temporary measures or lasting reform? Examining Gulf States’ evolving welfare policies in response to the global health crisis. Social Policy & Society, First Look, 1-25. DOI:10.1017/S1474746424000630.
 
-**Brown, C. T.**, & Chang, Y. L. (2024). Ecosocial policy and the social risks of climate change: Foundations of the U.S. ecosocial safety net. Journal of Social Policy. https://doi.org/10.1017/S0047279424000126.
-
 Ben Brik, A. & **Brown, C. T.** (2024). Global trends in social inclusion and social inclusion policy: A systematic review and research agenda. Social Policy & Society, 1-24. DOI:10.1017/S147474642400054X.
 
 **Brown, C. T.**, & Gilbert, N. (2024). Comparative social policy. Encyclopedia of Social Work. https://doi.org/10.1093/acrefore/9780199975839.013.879.
 
-Grounder, B., & **Brown, C. T.** (2024). Limitations of ecomodernist climate change mitigation: The case of the U.S. Inflation Reduction Act and the (un)just transition. Critical Social Policy. http://dx.doi.org/10.1177/02610183241281349.
+Gounder, B., & **Brown, C. T.** (2024). Limitations of ecomodernist climate change mitigation: The case of the U.S. Inflation Reduction Act and the (un)just transition. Critical Social Policy. http://dx.doi.org/10.1177/02610183241281349.
 
-**Brown, C. T.**, Mehta, M., Ryali, M., Dong, C., Shadfar, I., Dominquez Davalos, J., Culich, A., & Suen, A. (2024). The data science discovery program: A case for data science consulting in higher education. Stat, 13(2). http://doi.org/10.1002/sta4.677.
+**Brown, C. T.**, Mehta, M., Ryali, M., Dong, C., Shadfar, I., Dominguez Davalos, J., Culich, A., & Suen, A. (2024). The data science discovery program: A case for data science consulting in higher education. Stat, 13(2). http://doi.org/10.1002/sta4.677.
 
 Miller, S., Roll, S., **Brown, C. T.**, Brugger, L., & Grinstein-Weiss, M. (2024). Which side (of the balance sheet) are you on? Household financial resources and participation in the 2020 protests. The Journal of Sociology & Social Welfare, 50(4). https://doi.org/10.15453/0191-5096.4671.
 
@@ -127,9 +131,11 @@ Rivkin-Fish, Z., Fichman, B., & **Brown, C. T.** (2021, Jul. 8). New opportuniti
 
 </div>
 
-### Dashboards
+### Dashboards & Software
 
 <div class="hanging-indent" markdown="1">
+
+Statecraft (in development). A computational tool that scrapes, classifies, and summarizes legislation and administrative policy across every level of U.S. government using open large language models.
 
 Chang, Y. L., **Brown, C. T.**, & Keh, M. (2025). CalWORKs WTW Racial Equity Dashboard, Version 2. https://fssrn.shinyapps.io/CalWORKS-WTW-Racial-Equity-Dashboard/.
 
@@ -139,17 +145,19 @@ Chang, Y. L., **Brown, C. T.**, & Keh, M. (2025). CalWORKs WTW Racial Equity Das
 
 <div class="hanging-indent" markdown="1">
 
-**Brown, C. T.**, Nepomnyashcy, L., Patel, A. S. (R&R). Is the U.S. ecosocial safety net inequitable?: Comparing the Individuals and Households and National Flood Insurance programs. Journal of Social Policy.
+**Brown, C. T.**, Nepomnyaschy, L., & Patel, A. S. (R&R). Is the U.S. ecosocial safety net inequitable?: Comparing the Individuals and Households and National Flood Insurance programs. Journal of Social Policy.
 
-**Brown, C. T.** (R&R). Social inclusion, welfare states, and ecosocial adaptation: A global analysis. Journal of International and Comparative Social Policy.
+**Brown, C. T.**, Wang, J., Chang, Y.-L., Krmpotic, C., dos Santos Ronzoni, R., Prá, K. R. D., Peng, N., Henley, J., Lee, Y., Kajai, S., Cho, S., Colin, S., & Rodriguez, R. (under review). Fueling ecowelfare: A global comparative analysis of energy and utility assistance. Accepted special issue, Social Policy & Administration.
 
-Hetling, A., Chang, Y. L., Fox-Dichter, S., **Brown, C. T.**, Gassman-Pines, A., Rothwell, D., & Nikolova, K. (R&R). A racial equity analysis of state TANF caseload trends: Examining the impact of the COVID-19 pandemic. Population Research and Policy Review.
+**Brown, C. T.** (under review). Do welfare states adapt?: Eco-social risk and welfare in European and U.S. climate adaptation plans. Accepted special issue, Journal of European Social Policy.
 
-**Brown, C. T.**, Wang, J., Chang, Y.-L., Lucuix, M. B., Krmpotic, C., dos Santos Ronzoni, R., Prá, K. R. D., Peng, N., Henley, J., Lee, Y. Kajai, S., Cho, S., Colin, S., & Rodriguez, R. (under review). Fueling ecowelfare: A global comparative analysis of energy and utility assistance. Accepted Special Issue with Social Policy & Administration.
+**Brown, C. T.**, Dolsak, N., Prakash, A., & Adolph, C. (under review). Does mitigation delay planning for adaptation? A panel analysis, 1995–2020.
 
-**Brown, C. T.** (under review). Do welfare states adapt?: Eco-social risk and welfare in European and U.S. climate adaptation plans. Accepted Special Issue with Journal of European Social Policy.
+**Brown, C. T.** (under review). Technocare: A critical theory of technology and care.
 
-Ben Brik, A., **Brown, C. T.**, Liang, Q. (under review). Social inclusion in the Middle East and Northern Africa: Methodology for the A-SCOPE Survey in 11 MENA countries.
+**Brown, C. T.**, Rakasi, M., & Singhvi, A. (under review). The divided ecowelfare state: The political economy of public-private U.S. disaster relief.
+
+Ben Brik, A., **Brown, C. T.**, & Liang, Q. (under review). Social inclusion in the Middle East and North Africa: Methodology for the A-SCOPE Survey in 11 MENA countries.
 
 Awbrey, M., Davidson, T., Feliscar, L., Rathbun, H., **Brown, C. T.**, Ferreira, R. J., Leahy, C., Jerolleman, A., Logan, A., Guerke, M., Contillo, C. M., Bamba, L. A. M., Vermilyea, J., Rose, K., & Buttell, F. P. (under review). A scoping literature review on FEMA’s Individuals and Households Program.
 
@@ -159,23 +167,17 @@ Awbrey, M., Davidson, T., Feliscar, L., Rathbun, H., **Brown, C. T.**, Ferreira,
 
 <div class="hanging-indent" markdown="1">
 
-**Brown, C. T.**, Dolsak, N., & Prakash, A., Adolph, C. (working). Does mitigation delay planning for adaptation? A panel analysis, 1995-2020.
-
-**Brown, C. T.**, & Chang, Y. L. (working). Adapting the safety net: The role of climate-adapted and ecowelfare amid climate change.
+**Brown, C. T.**, & Chang, Y. L. (working). Adapting the safety net: The role of climate-adapted and ecowelfare programs amid climate change.
 
 **Brown, C. T.** (working). Growth, degrowth, and regrowth: The dialectic of adaptation and ecowelfare.
 
-**Brown, C. T.** (working). Technocare: A critical theory of technology and care.
-
 **Brown, C. T.**, Dolsak, N., & Prakash, A. (working). Climate and inequality: A distributional capacity framework for mitigation and adaptation.
 
-**Brown, C. T.**, Rakasi, M., & Singhvi, A. (working). A divided ecowelfare state?: A network analysis of disaster capitalism and the U.S. ecowelfare state.
-
-Chang, Y. L., **Brown, C. T.**, Keh, M. (working). Uncovering racial disparities in local welfare-to-work program responses to the COVID-19 pandemic in California.
+Chang, Y. L., **Brown, C. T.**, & Keh, M. (working). Uncovering racial disparities in local welfare-to-work program responses to the COVID-19 pandemic in California.
 
 Liang, Q., **Brown, C. T.**, & Chang, Y. L. (working). County racial distribution and racial disparities in welfare sanctions: Exploring group threat and contact theories in California's TANF system.
 
-Grounder, B., & **Brown, C. T.** (working). Climate policy (in)equity: Analyzing private incentives under the Inflation Reduction Act for investments in climate vulnerable communities.
+Gounder, B., & **Brown, C. T.** (working). Climate policy (in)equity: Analyzing private incentives under the Inflation Reduction Act for investments in climate-vulnerable communities.
 
 </div>
 
@@ -220,7 +222,7 @@ Beyond Professional Identity
 ### Research Fellowships
 Consortium for Emergent Disaster Resilience
 * Research Associate
-* 2024 - Present
+* 2024 - 2026
 * Tulane University
 * PI: Regardt Ferreira, Ph.D.
 
@@ -230,8 +232,8 @@ CSWE-SSWR-GADE Social Work Doctoral Student Policy Fellowship
 * Mentor: Dr. Lenna Nepomnyaschy, Rutgers University, Social Work 
 
 Social Science Data Laboratory & Data Science Discovery Program
-* Senior Data Science and Discovery Fellow
-* 2022 - Present
+* Senior Data Science & AI Fellow
+* 2023 - Present
 * University of California, Berkeley
 
 PhD Workshop in Educational Institutions in Comparative Perspective: Explorations in Durable Inequality
@@ -241,7 +243,7 @@ PhD Workshop in Educational Institutions in Comparative Perspective: Exploration
 
 Working Group in Black/Africana Critical Theory
 * Doctoral Student
-* 2023 - Present
+* 2023 - 2025
 * University of California, Berkeley
 
 The Summer Institute in Computational Social Science
@@ -256,8 +258,9 @@ Data Science for Social Justice Workshop
 
 ## Teaching
 ### Independent Instruction
-#### Disaster Resilience Leadership Academy, Tulane University
-##### Spring 2025
+#### Disaster Resilience Leadership Academy & School of Social Work, Tulane University
+##### Spring 2026
+- DRLS 6032, Quantitative Methods
 - DRLS 6110, Research and Evaluation
 
 #### University of California, Berkeley
@@ -359,17 +362,25 @@ Ben Brik, A., & **Brown, C. T.** (2025). Social inclusion in transition: A cross
 
 <div class="hanging-indent" markdown="1">
 
-**Brown, C. T.** (2026, Jan.). Climate risk and the welfare state: Exploring the moderation of climate-adaptive welfare and ecowelfare on U.S. welfare enrollment after natural hazards. Society for Social Work Research, 2026.
+**Brown, C. T.** (2026, Oct.). From welfare reform to ecowelfare reform: Designing equitable climate-era social protection. Council on Social Work Education Annual Meeting.
 
-Grounder, B., **Brown, C. T.** (2026, Jan.). Climate policy (in)equity: Investigating private incentives under the Inflation Reduction Act for investments in marginalized communities. Society for Social Work Research, 2026.
+**Brown, C. T.** (2026, Sep.). Inequality and the political economy of climate mitigation and adaptation. American Political Science Association Annual Meeting.
 
-Chang, Y. L., **Brown, C. T.** (2026, Jan.). Investigating the welfare-to-work requirements and sanction-lifted policies following the COVID-19 pandemic through an equity lens. Society for Social Work Research, 2026.
+**Brown, C. T.** (2026, Aug.). From welfare reform to ecowelfare reform: The (neo)liberal regime under climate pressure. Network for European Social Policy Analysis (ESPAnet) Annual Conference.
 
-Davidson, T., Ferreira, R., Leahy, C., Rathbun, H., Lyttle, M., **Brown, C. T.**, & Buttell, F. (2026, Jan.). Understanding barriers to equitable disaster recovery: A concept mapping study. Society for Social Work Research, 2026
+**Brown, C. T.** (2026, June). The divided ecowelfare state: A network analysis of the political economy of public-private U.S. disaster relief. The New Political Economy of Welfare Systems in Times of Climate Change, Sciences Po.
 
-**Brown, C. T.** (2025, Nov.). Climate risk and the welfare state: Exploring the moderation of climate-adaptive welfare and ecowelfare on U.S. welfare enrollment after natural hazards. Association Public Policy Analysis & Management 2025.
+**Brown, C. T.** (2026, June). Do welfare states adapt? Discursive convergence and hazard selectivity in national adaptation plans. Sustainable Social Policy Workshop, London School of Economics.
 
-Chang, Y. L., **Brown, C. T.** (2025, Nov.). Investigating the welfare-to-work requirements and sanction-lifted policies following the COVID-19 pandemic through an equity lens. Association Public Policy Analysis & Management 2025
+**Brown, C. T.** (2026, Jan.). Climate risk and the welfare state: Climate-adaptive welfare and ecowelfare and U.S. welfare enrollment after natural hazards. Society for Social Work Research.
+
+Gounder, B., & **Brown, C. T.** (2026, Jan.). Climate policy (in)equity: Private incentives under the Inflation Reduction Act for investments in marginalized communities. Society for Social Work Research.
+
+Chang, Y. L., & **Brown, C. T.** (2026, Jan.). Welfare-to-work requirements and sanction-lifted policies following the COVID-19 pandemic through an equity lens. Society for Social Work Research.
+
+**Brown, C. T.** (2025, Nov.). Climate risk and the welfare state: Enrollment moderation after natural hazards. Association for Public Policy Analysis & Management (APPAM).
+
+Chang, Y. L., & **Brown, C. T.** (2025, Nov.). Welfare-to-work requirements and sanction-lifted policies following COVID-19 through an equity lens. Association for Public Policy Analysis & Management (APPAM).
 
 **Brown, C. T.**, (2025, Oct.). When helping hurts: Growth, adaptation, and a critique of ecowelfare. Extreme Weather Events, Climate Adaptation and Eco-social Policies Colloquium, Sustainable Welfare & Eco-social Policy Network.
 
@@ -381,7 +392,7 @@ Chang, Y. L., & **Brown, C. T.** (2025, Oct.). Leveraging Cal-OAR data insights 
 
 Perone, A., **Brown, C. T.**, Fletcher, K., Urrutia, L. (2025, June). The five C’s of climate change and caregiving: Moving from catastrophic to cohesive caregiving for older and disabled adults. Transforming Care Conference.
 
-**Brown, C. T.**, Nepomnyashcy, L., Patel, A. S. (2024, Nov.). Is the U.S. ecosocial safety net inequitable?: Comparing the Individuals and Households and National Flood Insurance programs. Association Public Policy Analysis & Management 2024.
+**Brown, C. T.**, Nepomnyaschy, L., & Patel, A. S. (2024, Nov.). Is the U.S. ecosocial safety net inequitable?: Comparing the Individuals and Households and National Flood Insurance programs. Association for Public Policy Analysis & Management (APPAM).
 
 Chang, Y. L., Keh, M., **Brown, C. T.** (2024, Nov.). Analyzing racial disparities in welfare sanctions and employment outcomes: A study of welfare-to-work systems across California counties through the COVID-19 pandemic. Association Public Policy Analysis & Management 2024.
 
@@ -405,7 +416,7 @@ Chang, Y. L., **Brown, C. T.** (2023, Nov.). Uncovering racial disparities in lo
 
 Davidson, T., Ferreira, R., Leahy, C., Rathbun, H., Lyttle, M., **Brown, C. T.**, & Buttell, F. (2026, Jan.). Understanding barriers to equitable disaster recovery: A concept mapping study. Society for Social Work Research, 2026
 
-**Brown, C. T.**, Nepomnyashcy, L., Patel, A. S. (2025, Jan.). Is the U.S. ecosocial safety net inequitable?: Comparing the Individuals and Households and National Flood Insurance programs. Society for Social Work Research 2025.
+**Brown, C. T.**, Nepomnyaschy, L., & Patel, A. S. (2025, Jan.). Is the U.S. ecosocial safety net inequitable?: Comparing the Individuals and Households and National Flood Insurance programs. Society for Social Work Research.
 
 **Brown, C. T.** (2023, May). Sustainable Social Inclusion through Eco-social Policy: Bridging Transdisciplinary Approaches to Ecomodernism and Post-growth. Sustainability Science Days 2023. University of Helsinki.
 
@@ -473,11 +484,21 @@ McClendon, G. & **Brown, C. T.** (2020). Local Leadership in Turbulent Times: Ho
 
 </div>
 
+## Mentorship
+
+- E. Mun — admission to Ph.D. in Statistics, University of Washington
+- A. Patel — 2026 National Science Foundation Graduate Research Fellowship (NSF GRFP)
+- Q. Liang — 2023–2024 Mark Chesler Award (University of Michigan, Sociology) and 2026 Marshall Sahlins Social Science Award
+
 ## Practice Experience
 ### Professional Experience
-Center for Ecosocial POlicy
+The Ecosocial Center
 * Founding Executive Director
 * 2025 - Present
+
+Social Science Data Laboratory (D-Lab), University of California, Berkeley
+* Data Science Consultant
+* 2022 - 2023
 
 CTC Technology & Energy
 * Senior Policy Analyst
@@ -512,7 +533,7 @@ Missouri State Senate and House
 * Legislative Aide
 * 2019 - 2020
 
-City Garden Montessori School
+Brown School, Washington University in St. Louis
 * Racial Equity Fellow
 * 2019 - 2020
 
@@ -530,14 +551,19 @@ Arkansas Division of Children and Family Services
 
 ## Service & Leadership
 ### Academic
+- Doctoral Committee Student Representative, School of Social Welfare, University of California, Berkeley (2026–2027)
 - The Chancellor’s Advisory Committee on Work and Family, University of California, Berkeley (2022-2024)
 - Dean Finalist Student Interview Panel, School of Social Welfare, University of California, Berkeley (2024)
 
 ### Peer Review
-- Archive of Public Health
+- Archives of Public Health
+- Climatic Change
 - Family Relations: Interdisciplinary Journal of Applied Family Science
 - Humanities and Social Sciences Communication
-- Journal of the Sociology of Race and Ethnicity
+- Journal of Social Policy
+- Quality & Quantity
+- Revista Filosofía UIS
+- Sociology of Race and Ethnicity
 - Psychological Trauma: Theory, Research, Practice, and Policy
 - Social Psychiatry and Psychiatric Epidemiology
 - Stat
@@ -548,27 +574,29 @@ Arkansas Division of Children and Family Services
 - Constituent Services, Dr. Sam Page’s County Executive Campaign (2020)
 - Development Advisor and Child Care Worker, Sparrow’s Promise (2017-2022)
 - Director of Data and Strategy, Ella Jones’ Mayoral Campaign (2019-2020)
-- Communications Lead, Climate Action Committee, East Bay Democratic Socialists of America (2025-Present)
+- Communications Lead, Climate Action Committee, No Coal in Oakland, East Bay Democratic Socialists of America (2025-present)
 - Field Director, Rep. Tommie Pierson’s Missouri State Senate Campaign (2020)
-- Lead Organizer for Student Advocacy Day, Congressional Research Institute for Social Work and Policy, (2022)
-- Leadership Team for Student Advocacy Day, Congressional Research Institute for Social Work and Policy, (2019-2022)
+- Lead Organizer & Leadership Team, Student Advocacy Day, Congressional Research Institute for Social Work and Policy (2019-2022)
 - Research and Policy Advisor, Modern Widows Club (2020-2022)
 
 ## Honors, Fellowships, & Awards
-### Honors
+### Honors & Awards
+- Teaching Effectiveness Award, UC Berkeley (2026)
+- Outstanding Graduate Student Instructor Award, UC Berkeley (2026)
 - Honors Graduate, Harding University
 - Outstanding Social Work Student 2019, Harding University 
 - Rhodes Scholarship Finalist 2020
 
 ### Professional Membership
-- Environmental Politics and Governance Mentoring Program – Mentor: Dr. Aseem Prkash & Nives Dolsak	
+- Environmental Politics and Governance Mentoring Program – Mentors: Dr. Aseem Prakash & Nives Dolsak
 - Randolph Mentoring Program - Mentor: Dr. Tanya Brice Smith
 - Scholars Strategy Network - https://scholars.org/scholar/christopher-brown
 
-### Scholarship
-- Arkansas Governor’s Distinguished Scholar
+### Fellowships & Scholarships
+- University of California Dissertation-Year Fellowship (2026–2027)
+- Social Welfare Departmental Doctoral Fellowship, University of California, Berkeley (2022–present)
 - Dean’s Scholarship in Social Work, Washington University in St. Louis
-- Social Welfare Departmental Doctoral Fellowship, University of California, Berkeley
+- Arkansas Governor’s Distinguished Scholar
 - Trustee Scholar, Harding University
 
 ## Media & Coverage
