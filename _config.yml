@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "C. Taylor Brown"
   pronouns         : "he/him" # example: "she/her"
-  bio              : "PhD Candidate in Social Welfare & Critical Theory | Ecosocial Policy & Climate Adaptation"
+  bio              : "PhD Candidate in Social Welfare & Critical Theory"
   location         : "Berkeley, CA"
   employer         : "UC Berkeley"
   employer_url     : "https://socialwelfare.berkeley.edu/people/taylor-brown"
@@ -94,6 +94,26 @@ publication_category:
     title: 'Policy Briefs'
   op_ed:
     title: 'Op-Eds'
+
+# Teaching Category - The following list of teaching categories and their headings
+teaching_category:
+  instructor:
+    title: 'Independent Instruction'
+  gsi:
+    title: 'Graduate Student Instructor'
+
+# Talk Category - The following list of talk categories and their headings
+talk_category:
+  panel:
+    title: 'Organized Panels'
+  oral:
+    title: 'Oral Presentations'
+  poster:
+    title: 'Poster Presentations'
+  discussant:
+    title: 'Panel Discussant, Roundtables & Workshops'
+  webinar:
+    title: 'Webinars'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
