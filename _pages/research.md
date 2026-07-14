@@ -86,8 +86,6 @@ Through applied and collaborative work, I translate ecosocial concepts into prac
 
 **Approach/methods:** Participatory action research; policy co-design; practitioner-facing synthesis
 
-[Practice-facing work →](/esc/){: .btn .btn--primary}
-
 ---
 
 ### 5. Critical Ecosocial Theory
@@ -127,7 +125,7 @@ Two platforms extend this scholarship into durable research infrastructure.
 - **Gounder, B., & Brown, C. T.** (2024). Limitations of ecomodernist climate change mitigation: The case of the U.S. Inflation Reduction Act and the (un)just transition. *Critical Social Policy*, 45(1). [doi:10.1177/02610183241281349](https://doi.org/10.1177/02610183241281349)
 - **Brown, C. T., & Gilbert, N.** (2024). Comparative social policy. *Encyclopedia of Social Work*. [doi:10.1093/acrefore/9780199975839.013.879](https://doi.org/10.1093/acrefore/9780199975839.013.879)
 
-[Full publication list →](/cv/){: .btn .btn--primary}
+[Full publication list →](/publications/){: .btn .btn--primary}
 
 ---
 
