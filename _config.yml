@@ -24,8 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "C. Taylor Brown"
   pronouns         : "he/him" # example: "she/her"
-  bio              : "PhD Candidate in Social Welfare & Critical Theory"
-  location         : "Berkeley, CA"
+  bio              : "PhD Candidate<br>Social Welfare & Critical Theory"
   employer         : "UC Berkeley"
   employer_url     : "https://socialwelfare.berkeley.edu/people/taylor-brown"
   uri              : # URL
