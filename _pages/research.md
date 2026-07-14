@@ -15,7 +15,7 @@ I study how climate risk is reorganizing social protection—and how adaptation 
 
 ## Dissertation: When Helping Hurts
 
-My dissertation develops the concept of **ecowelfare**—the integration of climate adaptation within welfare-state institutions. I argue that crisis governance often cycles repair back into markets through **growth-as-adaptation**: temporary decommodification of labor and land during disasters, followed by recommodification in recovery. At its center is a **dialectic of adaptation**, tested across three studies: what states *say* about adaptation, what states *build* as ecowelfare institutions, and what those designs *do* under crisis.
+My dissertation develops the concept of **ecowelfare**—the integration of climate adaptation in welfare states. I argue that crisis governance often cycles repair back into markets through **growth-as-adaptation**: temporary decommodification of labor and land during disasters, followed by recommodification in recovery. At its center is a **dialectic of adaptation**, tested across three studies: what states *say* about adaptation, what states *build* as ecowelfare institutions, and what those designs *do* under crisis.
 
 [Read more →](/dissertation/){: .btn .btn--primary}
 
@@ -30,10 +30,10 @@ My dissertation develops the concept of **ecowelfare**—the integration of clim
 I build comparative frameworks for identifying ecowelfare institutions and their distributional logics, including cross-national typologies and analyses of how welfare capacity shapes climate governance.
 
 **Key projects:**
-- Global ecowelfare typology—a six-cluster regime framework built on indicators of ecodecommodification
-- Comparative analysis of National Adaptation Plans (203 societies; 487 documents)
+- Global ecowelfare typology built on indicators of ecodecommodification
+- Comparative analysis of National Adaptation Plans
 - Climate risk and welfare-state transformation
-- Comparative energy and utility assistance regimes (global)
+- Comparative energy and utility assistance regimes
 
 **Methods/data:** Model-based clustering; comparative political economy; indicator construction; text-as-data
 
@@ -46,8 +46,8 @@ I build comparative frameworks for identifying ecowelfare institutions and their
 Using U.S. disasters as a strategic case, I examine how relief and recovery policies shape economic trajectories—and how decommodification during crisis is often reversed during rebuilding.
 
 **Key projects:**
-- Welfare and recovery trajectories after major hurricanes (generalized synthetic control, 1980–2022)
-- Inequity in the U.S. ecosocial safety net (FEMA's Individuals and Households Program; the National Flood Insurance Program)
+- Welfare and recovery trajectories after major hurricanes
+- Inequity in the U.S. ecosocial safety net
 - The divided ecowelfare state: the political economy of public–private disaster relief
 - Growth-as-adaptation in disaster recovery
 
@@ -63,7 +63,7 @@ I analyze how states narrate adaptation—what gets centered (resilience, market
 
 **Key projects:**
 - Computational and symptomatic reading of the global NAP corpus
-- U.S. state adaptation and hazard-mitigation plans (all fifty states, in progress)
+- U.S. state adaptation and hazard-mitigation plans
 - Mitigation–adaptation sequencing and institutional path dependence
 - Political economy of adaptation planning
 
@@ -78,7 +78,8 @@ I analyze how states narrate adaptation—what gets centered (resilience, market
 Through applied and collaborative work, I translate ecosocial concepts into practical frameworks for just adaptation, emphasizing redistribution, care, and institutional design.
 
 **Key projects:**
-- The Ecosocial Center (participatory research, policy education, convening)
+- Theory of ecosocial adaptation
+- The Ecosocial Commons
 - Community climate education and organizing collaborations
 - Ecosocial implementation frameworks for agencies and NGOs
 - Practitioner perspectives on disaster assistance reform
@@ -89,7 +90,7 @@ Through applied and collaborative work, I translate ecosocial concepts into prac
 
 ---
 
-### 5. Critical Theory of Ecowelfare and the Adaptation State
+### 5. Critical Ecosocial Theory
 
 **Guiding question:** What kind of state is being built through adaptation—and what contradictions does it manage?
 
@@ -101,7 +102,7 @@ I develop a critical theory of the ecowelfare state and adaptation governance, d
 - Adaptation imaginary; growth-centered resilience
 - Technocare and the apparatus of climate governance
 
-**Primary traditions:** Critical political economy; Frankfurt School/state theory; social reproduction; post-/degrowth; environmental justice
+**Primary traditions:** Critical political economy; Frankfurt School/state theory; social reproduction; post-/degrowth; environmental and climate justice
 
 ---
 
@@ -111,7 +112,7 @@ Two platforms extend this scholarship into durable research infrastructure.
 
 **Statecraft** — a computational policy tool I am building that scrapes, classifies, and summarizes legislation and administrative policy across every level of U.S. government using open large language models. Statecraft turns a diffuse, multi-jurisdictional policy landscape into a structured, analyzable corpus—infrastructure for studying policy at scale, with a replicable and auditable method.
 
-**The Ecosocial Center** — a community-based nonprofit I founded to bridge frontline knowledge and policy expertise through participatory research, policy education, and nonpartisan convening, ensuring findings reach the communities and decision-makers they concern.
+**The Ecosocial Commons** — a national community-based nonprofit I founded to bridge frontline knowledge and policy expertise through participatory research, policy education, and nonpartisan convening, ensuring findings reach the communities and decision-makers they concern.
 
 ---
 
