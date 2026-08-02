@@ -15,7 +15,7 @@ Welfare states are increasingly implicated in climate adaptation--a domain I cal
 
 My work bridges methods. I use causal inference, econometrics, machine learning, and computational text analysis to build policy-relevant evidence at scale, and I use critical theory to ask what our welfare categories, data systems, and administrative rules are built to see—and what they systematically miss.
 
-My dissertation, [*When Helping Hurts: Growth, Adaptation, and a Critique of Ecowelfare*](/dissertation/), develops this framework across three empirical studies: computational analysis of National Adaptation Plans, cross-national typologies of ecowelfare states, and quasi-experimental analysis of U.S. disaster programs. The argument is that ecowelfare is structurally double-edged—capable of reproducing growth-as-adaptation, or of enabling care-centered provision within ecological limits.
+My dissertation, [*Growth as Adaptation: Ecowelfare and the Reproduction of Climate Crisis*](/dissertation/), develops this framework across three empirical studies: computational analysis of National Adaptation Plans, cross-national typologies of ecowelfare states, and quasi-experimental analysis of U.S. disaster programs. The argument is that ecowelfare is structurally double-edged—capable of reproducing growth-as-adaptation, or of enabling care-centered provision within ecological limits.
 
 My research appears in the *Journal of Social Policy*, *Critical Social Policy*, *Social Policy & Society*, *Capitalism Nature Socialism*, and *ocial Work in Public Health*, among other venues. You can check out all my [**publications**](/publications/) and [**talks**](/talks/).
 

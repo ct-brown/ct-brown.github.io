@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "When Helping Hurts: <br> Growth, Adaptation, and a Critique of Ecowelfare"
+title: "Growth as Adaptation: <br> Ecowelfare and the Reproduction of Climate Crisis"
 permalink: /dissertation/
 author_profile: false
 classes: wide
@@ -13,7 +13,7 @@ header:
 ---
 
 <div class="callout-box">
-<p><em>When Helping Hurts</em> argues that modern welfare systems don't just manage social risk—they also function as climate adaptation infrastructure ("ecowelfare"), and under crisis governance they often cycle repair back into markets through <strong>growth-as-adaptation</strong>: temporary eco(de)commodification during disaster, followed by recommodification in recovery.</p>
+<p><em>Growth as Adaptation</em> argues that modern welfare systems don't just manage social risk—they also function as climate adaptation infrastructure ("ecowelfare"), and under crisis governance they often cycle repair back into markets through <strong>growth-as-adaptation</strong>: temporary eco(de)commodification during disaster, followed by recommodification in recovery.</p>
 </div>
 
 ## Core Claim

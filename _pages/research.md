@@ -13,7 +13,7 @@ I study how climate risk is reorganizing social protection—and how adaptation 
 
 ---
 
-## Dissertation: When Helping Hurts
+## Dissertation: Growth as Adaptation
 
 My dissertation develops the concept of **ecowelfare**—the integration of climate adaptation in welfare states. I argue that crisis governance often cycles repair back into markets through **growth-as-adaptation**: temporary decommodification of labor and land during disasters, followed by recommodification in recovery. At its center is a **dialectic of adaptation**, tested across three studies: what states *say* about adaptation, what states *build* as ecowelfare institutions, and what those designs *do* under crisis.
 

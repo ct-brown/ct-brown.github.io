@@ -27,7 +27,7 @@ kramdown:
 
 * Ph.D. in Social Welfare, with a Designated Emphasis in Critical Theory (expected 2027)
   * *University of California, Berkeley, School of Social Welfare*
-  * Dissertation: *When Helping Hurts: Growth, Adaptation, and a Critique of Ecowelfare*
+  * Dissertation: *Growth as Adaptation: Ecowelfare and the Reproduction of Climate Crisis*
   * Committee: Yu-Ling Chang, Neil Gilbert (School of Social Welfare); Sharad Chari (Geography & Critical Theory)
 * Certificate in Applied Data Science — University of California, Berkeley, School of Information
 * Certificate in Teaching and Learning in Higher Education — University of California, Berkeley
