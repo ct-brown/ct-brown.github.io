@@ -3,7 +3,7 @@ layout: single
 title: "Growth as Adaptation: <br> Ecowelfare and the Reproduction of Climate Crisis"
 permalink: /dissertation/
 author_profile: false
-classes: wide
+classes: wide dissertation-page
 toc: true
 toc_label: "Dissertation Overview"
 toc_sticky: true
@@ -20,7 +20,7 @@ header:
 
 *Adapting Without Rebuilding Risk*
 
-<iframe src="https://gamma.app/embed/pyfr2czmibrbg74" style="width: 700px; max-width: 100%; height: 450px; border: 0;" allow="fullscreen" allowfullscreen loading="lazy" title="Adapting Without Rebuilding Risk"></iframe>
+<iframe class="dissertation-deck" src="https://gamma.app/embed/pyfr2czmibrbg74" allow="fullscreen" allowfullscreen loading="lazy" title="Adapting Without Rebuilding Risk"></iframe>
 
 [Open the slide deck in Gamma](https://gamma.app/embed/pyfr2czmibrbg74)
 
