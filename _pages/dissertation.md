@@ -16,6 +16,16 @@ header:
 <p><em>Growth as Adaptation</em> argues that modern welfare systems don't just manage social risk—they also function as climate adaptation infrastructure ("ecowelfare"), and under crisis governance they often cycle repair back into markets through <strong>growth-as-adaptation</strong>: temporary eco(de)commodification during disaster, followed by recommodification in recovery.</p>
 </div>
 
+## Job Talk
+
+*Adapting Without Rebuilding Risk*
+
+<iframe src="https://gamma.app/embed/pyfr2czmibrbg74" style="width: 700px; max-width: 100%; height: 450px; border: 0;" allow="fullscreen" allowfullscreen loading="lazy" title="Adapting Without Rebuilding Risk"></iframe>
+
+[Open the slide deck in Gamma](https://gamma.app/embed/pyfr2czmibrbg74)
+
+---
+
 ## Core Claim
 
 Climate adaptation is increasingly embedded in existing welfare institutions—less as transformation than as crisis management that stabilizes populations and restores market participation. This produces a paradox: as climate risk intensifies, welfare-based adaptation can become more necessary *and* more likely to reinforce the growth logics that help drive ecological crisis.
