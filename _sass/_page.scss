@@ -34,28 +34,6 @@
   }
 }
 
-.page.dissertation-page {
-  float: none;
-  width: 100%;
-  max-width: 1100px;
-  margin-right: auto;
-  margin-left: auto;
-  padding: 0;
-
-  #job-talk {
-    scroll-margin-top: 5rem;
-  }
-
-  .dissertation-deck {
-    display: block;
-    width: 100%;
-    height: auto;
-    min-height: 450px;
-    aspect-ratio: 16 / 9;
-    border: 0;
-  }
-}
-
 .page__title {
   margin-top: 0;
   line-height: 1;
